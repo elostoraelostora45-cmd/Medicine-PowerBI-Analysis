@@ -1,42 +1,69 @@
-================================================================
-Medicine Analysis with Power BI - Final Project Submission
+==================================================================
+Medicine Analysis with Power BI - Final Project
 Smart Investment Solution (SIS) - Data Analysis Diploma
-Student: [Your Name]
+Student:Ziad Tarek Mohamed Awadeen Abu El-Enein
 Instructor: Eng. Omar Mokhtar
-================================================================
+==================================================================
 
-PROJECT PHASE: Data Cleaning (Phase 2 of 8)
-Dataset: Medicine dataset from Kaggle (248,218 medicines / 10 tables / ~3.4M rows)
+OVERVIEW
+End-to-end analysis of a medicines dataset from Kaggle:
+data cleaning (Power Query), data modeling, DAX, and an
+interactive Power BI dashboard.
 
-----------------------------------------------------------------
-FOLDER STRUCTURE
-----------------------------------------------------------------
+DATASET
+- Source: Kaggle (medicines dataset)
+- 248,218 medicines, restructured from one wide table into 10 tables
+  (dimensions + bridge tables)
 
-01_Raw_Data/
-    The original dataset exactly as downloaded from Kaggle.
-    - 10 CSV files (DimMedicine, Dim*, Bridge* tables)
-    - README_PowerBI_Setup.txt (original dataset documentation)
+DATA CLEANING (Power Query)
+- Converted ID columns from decimals (2.0) to whole numbers
+- Removed 6 duplicated text columns (kept the IDs; names live in the
+  dimension tables)
+- Trimmed and cleaned text; validated Habit Forming (Yes/No only)
+- Repeated columns (uses, side effects, substitutes) restructured
+  into bridge tables
+- Kept missing values as null (no invented categories):
+  Chemical Class missing for 44.5% of medicines, Action Class for
+  44.4%, Therapeutic Class for 69 medicines
+- Kept repeated medicine names: IDs are unique and the same name can
+  be a different product
 
-02_Cleaned_Data/
-    The 10 tables after cleaning with Power Query techniques.
-    - DimMedicine.csv         : 248,218 rows x 6 columns (6 redundant text columns removed)
-    - DimChemicalClass.csv    : 872 -> 834 rows (38 case-insensitive duplicates merged)
-    - DimSubstitute.csv       : 46,684 -> 46,672 rows (12 duplicates merged)
-    - DimUse.csv              : 819 -> 813 rows (6 duplicates merged + 2 dirty texts fixed)
-    - Bridge tables re-mapped to the new IDs (referential integrity verified: 0 orphans)
+DATA MODEL
+- 10 tables, 9 one-to-many relationships (single direction,
+  dimension -> fact/bridge)
+- DimMedicine, DimTherapeuticClass, DimChemicalClass, DimActionClass,
+  DimUse, DimSideEffect, DimSubstitute, and 3 bridge tables
+  (BridgeMedicineUse, BridgeMedicineSideEffect,
+  BridgeMedicineSubstitute)
 
-03_Cleaning_Documentation/
-    - Data_Quality_Report.docx       : Full before/after quality report (Arabic)
-    - PowerQuery_Cleaning_Steps.docx : Step-by-step Power Query recipe (Arabic)
-    - PowerQuery_M_Code.txt          : The M code of every applied transformation
-    - Data_Validation_Log.txt        : Post-cleaning integrity check results
+DAX
+Measures:
+- Total Medicines
+- Habit Forming Medicines
+- Non Habit Forming Medicines
+- Habit Forming %
+- Distinct Therapeutic Classes
+- Side Effect Links
+Calculated columns:
+- Therapeutic Class Display (shows "Unknown" for missing classes)
+- Has Chemical Class (Yes/No)
 
-----------------------------------------------------------------
-CLEANING SUMMARY (before -> after)
-----------------------------------------------------------------
-Total rows:              3,418,462 -> 3,418,382 (80 redundant rows removed)
-Duplicate values merged: 56 (38 ChemicalClass + 12 Substitute + 6 Use)
-Columns removed:         6 redundant text columns from DimMedicine
-Dirty texts fixed:       2 (DimUse: UseID=1 "Common cold", UseID=485 "Depression")
-Orphan foreign keys:     0
-Duplicate full rows:     0
+DASHBOARD
+- KPI cards: Total Medicines, Habit Forming, Non Habit Forming,
+  Distinct Therapeutic Classes
+- Bar chart: medicines by Therapeutic Class
+- Donut chart: Habit Forming split
+- Slicer: Therapeutic Class (interactive filtering)
+
+KEY INSIGHTS
+- 248,218 medicines across 22 therapeutic classes
+- 6,003 habit-forming medicines (2.42%)
+- Largest class: Anti Infectives (57,503 medicines), followed by
+  Gastro Intestinal (33,630) and Pain Analgesics (32,267)
+
+PROJECT FILES
+- 01_Raw_Data
+- 02_Cleaned_Data
+- 03_Cleaning_Documentation
+- Medicine_Analysis.pbix  (the Power BI report)
+- dashboard.png           (dashboard screenshot)
