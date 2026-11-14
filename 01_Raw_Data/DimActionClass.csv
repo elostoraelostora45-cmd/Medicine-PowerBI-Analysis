@@ -1,0 +1,432 @@
+﻿ActionClassID,ActionClass
+1,5 alpha- reductase inhibitor (5ARI)
+2,5- Aminosalicylic acid (5-ASA)
+3,5-HT1A receptors partial agonist
+4,5-Nitroimidazole (Antiprotozoal & Antibacterial)
+5,5-lipoxygenase inhibitor
+6,5LOX inhibitor
+7,AMPA glutamate receptor antagonist
+8,Acetyl choline release inhibitor
+9,Acetylcysteine -Mucolytic
+10,"Additives, preservatives"
+11,Adenosine receptor (A1 & A2) antagonist
+12,Adrenergic receptor (alpha) antagonist- selective
+13,Adrenergic receptor antagonist - non selective
+14,Alcohol deaddiction
+15,Aldose reductase inhibitor
+16,Alkaloids-cytotoxic agents
+17,Alkylating agent
+18,Alpha & beta blocker
+19,Alpha 2 agonist (Imidazoline)
+20,Alpha 2 delta ligands (AED)
+21,Alpha 2-Adrenoceptor agonists (Anaesthetic)
+22,Alpha 2-adrenoceptors agonist (Central sympatholytics)
+23,Alpha-1 adrenoreceptor agonists
+24,Alpha-4 integrin inhibitor
+25,Alpha-glucosidase inhibitors
+26,Amino acid derivative- Osteoarthritis
+27,Amino acids
+28,Aminoglycosides
+29,Ampicillin & Sulbactam ester compound
+30,Amylo trophic lateral sclerosis drugs
+31,Anabolic steroid
+32,Analgesic & Antipyretic-PCM
+33,Androgen receptor antagonist
+34,Androgen- Endometereosis
+35,Androgens
+36,Angiotensin receptor blockers(ARB)
+37,Angiotensin-converting enzyme (ACE) inhibitors
+38,Antacids
+39,Anti IgE monoclonal antibodies
+40,Anti Pigmentation & Skin lightening agent
+41,Anti leprotic
+42,Anti staphylococcal-Topical
+43,Anti-CD6 monoclonal antibody
+44,Anti-Inflammatory- gout
+45,Anti-Leishmaniasis
+46,Anti-Ulcerants
+47,Anti-Ulcerants-Troxipide
+48,Anti-foaming agent
+49,Anti-hypoglycemic agent
+50,Anti-inflammatory & Antipruritic agent
+51,Anti-progesterone
+52,Anti-spasmodics (IBD)
+53,AntiAnginals-Oxyfedrin
+54,Anticancer-others
+55,Anticholinergic - Anaesthesia
+56,Anticholinergic - COPD
+57,Anticholinergic- Mydriatic and cycloplegic
+58,Anticholinergic- antispasmodic
+59,Anticholinergic- centrally acting
+60,Anticholinergics
+61,Anticholinesterase-Prokinetic agent
+62,Antifibrinolytic
+63,Antifungal Others
+64,Antimalarial- Aminoquinolines
+65,Antimalarial- Artemisinin and derivatives
+66,Antimalarial- others
+67,Antimetabolite- Methotrexate
+68,Antimetabolites
+69,Antimicrobials- Acne
+70,Antimicrotubule agents- Non Taxanes
+71,Antimicrotubule agents- Taxanes
+72,Antimicrotubule agents- Vinka alkaloid
+73,Antioxidant
+74,Antioxidant agent
+75,Antioxidant- Flavonoid
+76,Antioxidant- Omega-3-Fatty acids
+77,Antiprotozoal agents
+78,Antiseptics and disinfectants
+79,Antithyroid agents-Thyroid peroxidase inhibitors
+80,Antiviral (Non-HIV) drugs
+81,Anxiety disorder- Opipramol
+82,Aphthous ulcers
+83,Aromatase inhibitor
+84,Atypical Antipsychotics
+85,Barbiturate
+86,Benzodiazepine antagonist
+87,Benzodiazepines
+88,Beta 2 agonist - Uterus
+89,Beta blocker (Topical)
+90,Beta blocker- Cardioselective
+91,Beta blocker- Non selective
+92,Biguanides
+93,Bile acid Sequesterants
+94,Biological response modifier- Thymosin alpha
+95,Bone formation stimulator -PTH analogue
+96,Bone resorption & formation stimulator
+97,Bone resorption inhibitor -Bisphosphonates
+98,Bone resorption inhibitors- Calcitonin
+99,Bone resorption inhibitors- Monoclonal antibodies
+100,Brain carbonic anhydrase inhibitors
+101,Bruton's tyrosine kinase (BTK) inhibitors
+102,Bulk-forming laxatives
+103,CB 1 Antagonist
+104,CD 20 Inhibitor
+105,COMT inhibitors
+106,Calcimimetic agent
+107,Calcium channel antagonist/ Antihistamine
+108,Calcium channel blocker- migraine prevention
+109,Calcium channel blockers- Dihydropyridines (DHP)
+110,Calcium channel blockers- Nondihydropyridines
+111,Calcium sensitizer
+112,Capillary permeability reducer
+113,Carbonic anhydrase inhibitor
+114,Cardiac glycosides
+115,Cell membrane active agent
+116,Cell wall active agent
+117,Cell wall active agent - Narrow spectrum Penicillin
+118,Cell wall active agent - Penicillin:Beta-lactamase inhibitors
+119,Cell wall active agent -Carbapenems
+120,Cell wall active agent -Extended spectrum Penicillin
+121,Cell wall active agent- Penicillinase resistant Penicillin
+122,Cell wall synthesis inhibitor- UTI
+123,Centrally acting anti-obesity drug
+124,Cephalosporins: 1st generation
+125,Cephalosporins: 2nd generation
+126,Cephalosporins: 3 generation
+127,Cephalosporins: 4th generation
+128,Chloramphenicol
+129,Chloride channel activator
+130,Cholinesterase inhibitors - Alzheimer's disease
+131,Cholinesterase inhibitors- carbamates
+132,Cholinesterase regenerator
+133,Cholinomimetic Alkaloids- Nicotine
+134,Cholinomimetic Alkaloids- Pilocarpine
+135,Cholinomimetic Alkaloids-Varenicline
+136,Cholinomimetic Esters
+137,Class I Agents- anti arrhythmic
+138,Class III Agents- anti arrhythmic
+139,Coagulation factors
+140,Colloids (Plasma substitutes)
+141,Corticotropin
+142,Cough suppressants
+143,Crystalloids
+144,Cyclin-Dependent Kinase Inhibitor
+145,Cytoprotective agents- Bladder
+146,Cytoprotective agents- Kidney & Salivary gland
+147,Cytoprotective agents- methotrexate
+148,DPP-4 inhibitors
+149,Digestive enzymes
+150,Direct acting hepatitis C agent
+151,Direct antispasmodic (Bladder)
+152,Direct thrombin inhibitor- oral
+153,Direct thrombin inhibitor- parenteral
+154,Disease Modifying Anti-Rheumatoid Drugs (DMARDs)- Biologics
+155,Disease Modifying Anti-Rheumatoid Drugs (DMARDs)- Non biologics
+156,Dopamine (D2) receptor antagonist- Prochlorperazine
+157,Dopamine (D2) receptor antagonist-Prokinetic agent
+158,Dopamine agonists
+159,Dopamine agonists-Hyperprolactinemia
+160,Dopamine facilitator
+161,Dopamine precursor
+162,Dye-Ocular
+163,EGFR (ErbB1 or HER1) inhibitors- Monoclonal antibody
+164,Ectoparasiticides
+165,Endothelin receptor blocker
+166,Enkephalinase inhibitor
+167,Ergot derivative
+168,Erythropoiesis-stimulating agent (ESA)
+169,Estrogen receptor antagonist
+170,Estrogens
+171,Expectorants
+172,Fatty acid modulator & Sodium channel blocker
+173,First Generation Thrombolytics
+174,Fluorinated pyrimidine-antifungal
+175,Fungal cell membrane active agent
+176,Fungal cell wall synthesis inhibitor (Echiocandins)
+177,Fungal ergosterol synthesis inhibitor
+178,GABA transaminase inhibitor (AED)
+179,GNRH agonists/analogue
+180,GNRH antagonists
+181,Gastro intestinal calcium antagonist
+182,General anaesthetic agents
+183,Glucocorticoids
+184,Glutamate antagonist- tinnitus
+185,Glycopeptides
+186,Glycoprotein IIb/IIIa inhibitors
+187,Gonadotropins
+188,Granulocyte-colony stimulating factor (G-CSF)
+189,Granulocyte-macrophage colony stimulating factor (GM-CSF)
+190,Growth hormone agonist
+191,H1 Antihistaminics (First Generation)
+192,H1 Antihistaminics (second Generation)
+193,H2 Receptor Blocker
+194,HER2/neu (ErbB2) Inhibitor- Monoclonal antibody
+195,HIV-1 Entry Inhibitor / CCR5 receptor blocker
+196,HMG CoA inhibitors (statins)
+197,Haemopoetic agents
+198,Haemostatic agent
+199,Hematopoietic stem cell mobilizer
+200,Heparin Antagonist
+201,Hepatoprotectives
+202,Herbal
+203,High-ceiling Diuretics (Inhibitors of Na+-K+- 2Cl cotransport)
+204,Histamine analog- Meniere's Disease
+205,Human insulin-  intermediate acting
+206,Human insulin-  short acting
+207,Human papilloma virus (HPV) vaccine
+208,Hypolipidemics-others
+209,I F sodium channel (sinoatrial node) current blockers
+210,IL-2 Receptor anatgonist
+211,Idiopathic pulmonary fibrosis (IPF)
+212,Immune response modifier- Genital warts
+213,Immunoglobulin
+214,Immunomodulator- Multiple sclerosis (Injectable)
+215,Immunomodulator- Multiple sclerosis (oral)
+216,Immunomodulatory derivatives of thalidomide
+217,Immunostimulant- Respiratory tract infections
+218,Immunosuppressant- Calcineurin inhibitors
+219,Immunosuppressant- Mab
+220,Immunosuppressant- Purine analogs
+221,Immunosuppressant- mTOR inhibitors
+222,Inhalational Corticosteriods
+223,Insomina drug
+224,Insulin Secretogogues: GLP-1 agonists
+225,Insulin analogues- long acting
+226,Insulin analogues- rapid acting
+227,Integrase (HIV) inhibitors
+228,Interferons
+229,Intestinal sterol absorption inhibitors
+230,Intravitreal corticosteriod implants
+231,Ion exchange resins (Potassium Binders)
+232,Iron chelating agents
+233,Janus kinase inhibitors
+234,Keratoplastic and keratolytic agents
+235,Killed vaccine
+236,Late Sodium channel blocker- angina
+237,Leukotriene antagonists
+238,Lincosamides
+239,Lipase inhibitor
+240,Live attenuated vaccines
+241,Local anaesthetic (Amides)
+242,Local anaesthetic (Esters)
+243,Local antimicrobial antiseptic
+244,Long acting β2-agonists
+245,Low molecular weight Heparin (LMWH)
+246,Low-ceiling Diuretics (Inhibitors of Na+Cl symport)
+247,MAO-B Inhibitors
+248,MEK inhibitor
+249,Macrolides
+250,Magnesium Sulphate
+251,Mast cell stabilizers
+252,Meglitinides (Insulin Secretogogues)
+253,Melatonin agonist
+254,Methyl-PGF2α analogue
+255,Mineralocorticoids
+256,Minerals
+257,Miscellaneous agents- anti arrhythmic
+258,Mono-Amine Oxidase (MAO) inhibitors
+259,Monoamine depletor- Tetrabenazine
+260,Monobactams
+261,Monoclonal antibodies
+262,Mood stabilizers
+263,Mucolytics
+264,Mycobacterial cell wall inhibitors-Ethambutol
+265,Mycobacterial fatty acid synthase
+266,Mycolic acid inhibitors- INH
+267,NK1 Antagonists
+268,NMDA inhibitors- Alzheimer's disease
+269,NO Donors
+270,NSAID 's- Non-Selective COX 1&2 Inhibitors (acetic acid)'
+271,NSAID's -Selective COX-2 Inhibitors
+272,NSAID's- Non-Selective COX 1&2 Inhibitors (Salicylates)
+273,NSAID's- Non-Selective COX 1&2 Inhibitors (Topical)
+274,NSAID's- Non-Selective COX 1&2 Inhibitors (acetic acid)
+275,NSAID's- Non-Selective COX 1&2 Inhibitors (enolic acids)
+276,NSAID's- Non-Selective COX 1&2 Inhibitors (fenamates)
+277,NSAID's- Non-Selective COX 1&2 Inhibitors (propionic acid)
+278,NSAID's-Non-Selective COX 1&2 Inhibitors (Others)
+279,Natural Progesterone
+280,Neuraminidase Inhibitors
+281,Nitrofuran & its derivatives
+282,Non selective Anticholinergic (Bladder)
+283,Non-Nucleoside reverse transcriptase inhibitors (NNRTIs)
+284,Non-benzodiazepine hypnotics (Z Compounds)
+285,Nootropic agent
+286,Noradrenergic and specific serotonergic antidepressants (NASSAs)
+287,Norepinephrine-dopamine reuptake inhibitor (NDRI)
+288,Nucleoside/nucleotide reverse transcriptase inhibitors (NRTIs)
+289,Opioid Agonist- Antidiarrheal
+290,Opioid Antagonist
+291,Opioids
+292,Opioids- Partial agonist
+293,Oral Factor Xa Inhibitors
+294,Ornithine decarboxylase inhibitors- Facial hirsutism
+295,Osmotic diuretics
+296,Osmotic laxatives/Purgative
+297,Osteoarthritis- Hyaluronic acid
+298,Oxazolidinone
+299,Oxytocin Receptor Antagonist
+300,P2Y12 inhibitors (ADP receptor)
+301,PG E2 analogue
+302,PG F2 Alpha analogue
+303,PPAR alpha / gamma agonist
+304,PPAR alpha agonists (Fibrate)
+305,Partial estrogen agonist
+306,Penem
+307,Phosphate- Hypercalcemia
+308,Phosphodiesterase (non specific) inhibitor
+309,Phosphodiesterase III Inhibiotrs (PVD)
+310,Phosphodiesterase III inhibitors (anti-thrombotic)
+311,Phosphodiesterase-III inhibitors (HF)
+312,Phosphodiesterase-IV inhibitors (COPD)
+313,Phosphodiesterase-IV inhibitors (PsA & PSO)
+314,Phosphodiesterase-IV inhibitors (Smooth Muscle Relaxant)
+315,Phosphodiesterase-V inhibitors
+316,Phosphorous binder
+317,Plasminogen Activators- Thrombolytics
+318,Platinum compounds-Anticancer
+319,Potassium channel blocker- MS
+320,Potassium channel opener
+321,Potassium- sparing Diuretics
+322,Potassium-competitive acid blockers
+323,Probiotics
+324,Progestins (First generation)
+325,Progestins (Second generation)
+326,Progestins (Third generation)
+327,Progestins- Others
+328,Programmed Cell Death 1 (PD-1) Checkpoint Inhibitors
+329,Prostaglandin E1 (PGE1) analogue- ED
+330,Prostaglandin E1 (PGE1) analogue-obstetrics
+331,Prostaglandins & epidermal growth factor stimulator
+332,Protease (HIV) inhibitors
+333,Protease inhibitors- Pancreatitis
+334,Proteasome inhibitor
+335,Protein synthesis inhibitors
+336,Proteoglycan synthesis Stimulator
+337,Proteolytic Enzymes
+338,Proton pump inhibitors
+339,Psoralen & derivatives
+340,Pulmonary Surfactant
+341,Quinoline derivatives- Chinoform
+342,Quinolones/ Fluroquinolones
+343,RNA polymerase inhibitors- Rifamycins
+344,Radio contrast agents
+345,Re-pigmentation agent-Vitiligo
+346,Recombinant human epidermal growth factor (rhEGF)- Diabetic foot ulcer
+347,Recombinant human platelet-derived growth factor (rhPDGF)- Diabetic foot ulcer
+348,Renin inhibitors
+349,Respiratory stimulant
+350,Retinoids- First generation
+351,Retinoids- Second generation
+352,Retinoids- Third generation
+353,Rheologic modifier
+354,Rho kinase inhibitor
+355,SGLT2 inhibitors
+356,Sclerosing agent-Varicose Vein
+357,Selective M3 anticholinergic (Bladder)
+358,Selective Progesterone receptor modulators(SPRM)
+359,Selective Seretonin Reuptake inhibitors (SSRIs)
+360,Selective beta 3-adrenoceptor agonist (Bladder)
+361,Selective estrogen receptor modulators (SERM)- Breast Cx
+362,Selective estrogen receptor modulators (SERM)- OCP
+363,Selective estrogen receptor modulators (SERM)- Osteoporosis
+364,Selective inhibitor of activated Factor X
+365,Selective neuronal potassium channel openers (SNEPCO)
+366,Selective norepinephrine reuptake inhibitor (NRI)
+367,Semi-synthetic glycosaminoglycan
+368,Serotonin (5-HT4) receptor agonist-Prokinetic agent
+369,Serotonin antagonist and reuptake inhibitors (SARIs)
+370,Serotonin antagonist- Migraine prevention
+371,Serotonin antagonists (5-HT3 antagonists)
+372,Serotonin modulator and stimulator
+373,Serotonin partial agonist reuptake inhibitor (SPARI)
+374,Serotonin-norepinephrine reuptake inhibitors (SNRIs)
+375,Short acting β2-agonists
+376,Skeletal muscle relaxant- Centrally acting
+377,Skeletal muscle relaxant- Peripherally acting
+378,Skin Regenerative agents
+379,Snake sera
+380,Sodium channel modulators (AED)
+381,Soluble guanylate cyclase (sGC) stimulator
+382,Somatostatin analogues
+383,Stimulant laxatives/purgative
+384,Stimulant/ Drug for excessive sleepiness
+385,Stomatological-Hypersensitivity
+386,Stomatologicals- Antimicrobials
+387,Subunit (Purified antigen)
+388,Sulfonylureas (Insulin Secretogogues)
+389,Sulphonamides
+390,Surfactant laxatives/Stool softeners
+391,Sympathomimetics agonist
+392,Sympathomimetics agonist-Inotropes
+393,Sympathomimetics- Ocular
+394,Sympthatomimmetics- alpha 1 (Nasal)
+395,Sympthatomimmetics-ADHD
+396,Sympthatomimmetics-ADHD (Non stimulant)
+397,Synaptic vescicle 2 A protein ligand (AED)
+398,Tear substitues
+399,Tetracyclines
+400,Thalidomide & its Immunomodulatory derivatives (IMiDs)
+401,Theophylline & its derivatives
+402,Thiazolidinedione(PPAR gamma agonist)
+403,Thrombopoietin agonist
+404,Thromboxane A2-synthetase inhibitor
+405,Thromboxane A2/prostaglandin endoperoxide receptor antagonist- Bronchial asthma
+406,Thyroid hormones
+407,Topical Glucocorticoids
+408,Topical Vitamin D3 Analogues
+409,Topoisomerase Inhibitor
+410,Toxoid (Inactivated toxins)
+411,Tricyclic antidepressants
+412,Triptans (5HT 1B/1D Agonist)
+413,Typical Antipsychotics
+414,Tyrosine kinase inhibitors
+415,Unfractionated Heparin (UFH)
+416,Uricolytic agent- Chemotherapy
+417,Uricosuric agent-gout
+418,Urinary Antiseptic-Nitrofurantoin
+419,Urinary tract analgesics
+420,Uroselective adrenergic receptor(α1a) antagonist
+421,Uterotonic and abortificient
+422,Vascular endothelial growth factor (VEGF) inhibitor
+423,Vascular endothelial growth factor (VEGF) inhibitor for AMD
+424,Vasopressin analogues
+425,Vasopressin antagonist
+426,Vitamin K antagonists
+427,Vitamins
+428,X ray contrast media (Diagnostic agents)
+429,Xanthine oxidase Inhibitors-gout
+430,interstitial cystitis drug
+431,μ-opioid receptor & norepinephrine reuptake inhibitor (NRI)

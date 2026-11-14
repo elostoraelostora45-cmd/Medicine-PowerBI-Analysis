@@ -1,0 +1,1054 @@
+﻿SideEffectID,SideEffect
+1,Abdominal bloating
+2,Abdominal cramp
+3,Abdominal discomfort
+4,Abdominal distension
+5,Abdominal dysesthesia
+6,Abdominal pain
+7,Abnormal ECG
+8,Abnormal behavior
+9,Abnormal blood cell count
+10,Abnormal bruising
+11,Abnormal dreams
+12,Abnormal eye sensation
+13,Abnormal faces in children
+14,Abnormal gait
+15,Abnormal hair growth
+16,Abnormal hair growth on a women face and body
+17,Abnormal hair texture
+18,Abnormal involuntary movements
+19,Abnormal kidney function test
+20,Abnormal lipid profile
+21,Abnormal liver enzyme
+22,Abnormal liver function
+23,Abnormal liver function tests
+24,Abnormal menstrual bleeding
+25,Abnormal phosphorous level in blood
+26,Abnormal renal function tests
+27,Abnormal sensation
+28,Abnormal sensation in eyes
+29,Abnormal skin pigmentation
+30,Abnormal stool
+31,Abnormal taste
+32,Abnormal thoughts
+33,Abnormal urination
+34,Abnormal vaginal bleeding
+35,Abnormal vision
+36,Abnormality of voluntary movements
+37,Absence of menstrual periods
+38,Accidental injury
+39,Accomodation disorder
+40,Acid regurgitation
+41,Acne
+42,Acne-like rash
+43,Acneiform dermatitis
+44,Acneiform eruptions
+45,Acute myeloid leukemia (blood cancer)
+46,Acute renal failure
+47,Acute toxicity
+48,Adrenal insufficiency
+49,Affect lability
+50,Aggravation of asthma
+51,Aggravation of depression
+52,Aggression
+53,Aggressive behavior
+54,Agitation
+55,Agranulocytosis (deficiency of granulocytes in the blood)
+56,Airway inflammation
+57,Akathisia (inability to stay still)
+58,Allergic conjunctivitis
+59,Allergic contact dermatitis
+60,Allergic dermatitis
+61,Allergic reaction
+62,Allergic reaction in eye
+63,Allergic sensitization
+64,Allergic skin rash
+65,Allergy
+66,Altered blood lipid level
+67,Altered blood sugar level
+68,Altered frequency of urination
+69,Altered laboratory test values
+70,Altered libido
+71,Altered liver function test
+72,Altered menstrual cycle
+73,Altered vision
+74,Altered walking
+75,Anal irritation
+76,Anal itching
+77,Anal ulcers
+78,Anaphylactic reaction
+79,Anemia (low number of red blood cells)
+80,Anger
+81,Angina (heart related chest pain)
+82,Angina pectoris
+83,Angioedema (swelling of deeper layers of skin)
+84,Ankle swelling
+85,Anorgasmia (decreased orgasm)
+86,Anorgasmia (decreased orgasm) in women
+87,Anticholinergic effects
+88,Anxiety
+89,Aplastic anemia
+90,Apnea (absence of breathing)
+91,Application site burning
+92,Application site irritation
+93,Application site itching
+94,Application site pain
+95,"Application site reactions (burning, irritation, itching and redness)"
+96,Application site redness
+97,Argyria (skin turns blue or bluish-grey)
+98,Arrhythmia (irregular heartbeats)
+99,Ascites (accumulation of fluid in the abdominal cavity)
+100,Asthma
+101,Atrial arrhythmias (altered heart rate)
+102,Atrioventricular block
+103,Auto-antibody formation
+104,Azotemia (increased nitrogen containing compounds level in blood)
+105,Back pain
+106,Bacterial infection
+107,Balance disorder (loss of balance)
+108,Balanitis
+109,Behavioral changes
+110,Bilirubin in urine
+111,Bitter taste
+112,Black colored stool
+113,Bleeding
+114,Bleeding disorder
+115,Bleeding under the skin
+116,Blindness
+117,Blisters
+118,Blisters on fingers/feet
+119,Blisters on skin
+120,Bloating
+121,Blood clot in the blood vessels
+122,Blood clots
+123,Blood disorder
+124,Blood dyscrasias
+125,Blood in stool
+126,Blood in urine
+127,Blurred vision
+128,Body ache
+129,Body odor
+130,Bone fracture
+131,Bone marrow failure
+132,Bone marrow suppression
+133,Bone pain
+134,Bone weakness
+135,Bowel incontinence
+136,Brain hemorrhage
+137,Brain swelling
+138,Breast atrophy
+139,Breast discomfort
+140,Breast engorgement
+141,Breast enlargement
+142,Breast enlargement in male
+143,Breast pain
+144,Breast tenderness
+145,Breast tenderness in male
+146,Breathing problems
+147,Breathlessness
+148,Bronchitis (inflammation of the airways)
+149,Bronchoconstriction (constriction of air passages)
+150,Bronchospasm
+151,Bruise
+152,Bruising
+153,Burning eyes
+154,Burning of ear
+155,Burning sensation
+156,Burning sensation at the site of application
+157,Burning sensation in eye
+158,Burning sensation in mouth
+159,Burning sensation in throat
+160,Burping
+161,CNS stimulation
+162,CNS toxicity
+163,Calcification due to extravasation
+164,Calcinosis cutis
+165,Carbohydrate intolerance
+166,Cardiac arrest
+167,Cardiac failure
+168,Cardiovascular complications
+169,Cataract
+170,Central nervous system depression
+171,Cerebral hemorrhage
+172,Cervical thickening
+173,Chalky taste
+174,Change in blood pressure
+175,Change in blood test results
+176,Change in body weight
+177,Change in bowel habits
+178,Change in color of hair
+179,Change in color vision
+180,Changes in serum aminotransferase levels
+181,Changes in skin color
+182,Chest congestion
+183,Chest discomfort
+184,Chest pain
+185,Chest tightness
+186,Chills
+187,Cholestatic jaundice
+188,Chromaturia (abnormal coloration of urine)
+189,Chronic lung disease
+190,Chronic obstructive pulmonary disease (COPD)
+191,Circulatory disorder
+192,Clostridium difficile associated diarrhea
+193,Coating on tongue
+194,Cognitive disorder
+195,Cold extremities
+196,Cold skin
+197,Cold sores
+198,Cold symptoms
+199,Color blindness
+200,Coma
+201,Common cold
+202,Compression fracture
+203,Confusion
+204,Congestive cardiac failure
+205,Conjunctival blanching
+206,Conjunctival disorder
+207,Conjunctival edema
+208,Conjunctival hemorrhage
+209,Conjunctival hyperemia
+210,Conjunctival inflammation
+211,Conjunctival irritation
+212,Conjunctival sensitivity
+213,Conjunctivitis
+214,Connective tissue disorders
+215,Constipation
+216,Constriction of pupil
+217,Contact dermatitis
+218,Convulsion
+219,Coordination disorder
+220,Corneal deposits
+221,Corneal edema
+222,Corneal erosion
+223,Corneal inflammation
+224,Corneal staining
+225,Cough
+226,Coughing up blood
+227,Cramps
+228,Cushing syndrome
+229,Cushingoid syndrome
+230,Cyanide poisoning
+231,Cyanosis (bluish discoloration of the skin)
+232,Cycloplegia (paralysis of the ciliary muscle of the eye)
+233,Dark colored stool
+234,Dark colored urine
+235,Dark yellow to brown discoloration of urine
+236,Deafness
+237,Decrease in blood pressure
+238,Decrease in body weight
+239,Decreased appetite
+240,"Decreased blood cells (red cells, white cells, and platelets)"
+241,Decreased blood pressure
+242,Decreased calcium level in blood
+243,Decreased cardiac function
+244,Decreased cholesterol level in blood
+245,Decreased copper level
+246,Decreased creatinine clearance
+247,Decreased hematocrit level
+248,Decreased hemoglobin
+249,Decreased immunity
+250,Decreased immunoglobulins in infants
+251,Decreased level of thyroid hormones
+252,Decreased libido
+253,Decreased magnesium level in blood
+254,Decreased phosphate level in blood
+255,Decreased potassium level in blood
+256,Decreased protein levels in blood
+257,Decreased prothrombin level in blood
+258,Decreased pulmonary function
+259,Decreased sodium level in blood
+260,Decreased sperm count
+261,Decreased vision
+262,Decreased white blood cell count
+263,Decreased white blood cell count (lymphocytes)
+264,Decreased white blood cell count (neutrophils)
+265,Dehydration
+266,Delayed ejaculation
+267,Delayed wound healing
+268,Delirium (acute confusional state)
+269,Delusion
+270,Depigmentation of hair
+271,Depression
+272,Dermatitis
+273,Diabetes
+274,Diabetic retinopathy
+275,Diarrhea
+276,Difficulty in paying attention
+277,Difficulty in speaking
+278,Difficulty in swallowing
+279,Difficulty in urination
+280,Dilatation of pupil
+281,Discoloration of skin
+282,Discoloration of stool
+283,Discoloration of teeth
+284,Discomfort when urinating
+285,Disorientation
+286,Dizziness
+287,Double vision
+288,Drowsiness
+289,Drug eruptions
+290,Drug fever
+291,Drug rash with eosinophilia and systemic symptoms (DRESS) syndrome
+292,Drug tolerance
+293,Drug withdrawal syndrome
+294,Dry cough
+295,Dry eye
+296,Dry hair
+297,Dry lips
+298,Dry mucous membrane
+299,Dry nose
+300,Dry skin
+301,Dry throat
+302,Dryness
+303,Dryness and fissuring of paranasal and infraorbital areas
+304,Dryness in mouth
+305,Dyslipidemia
+306,Dyspepsia
+307,Dysphoria (state of generalized dissatisfaction with life)
+308,Dystonia (involuntary muscle contractions)
+309,ECG changes
+310,Ear discomfort
+311,Ear disorder
+312,Ear pain
+313,"Ear, nose, and throat (ENT) infections"
+314,Easy bruise
+315,Eating disorder
+316,Ecchymosis (discoloration of the skin resulting from bleeding underneath)
+317,Ectopic mineralization
+318,Eczema
+319,Eczematoid dermatitis
+320,Edema (swelling)
+321,Ejaculation disorder
+322,Electrolyte imbalance
+323,Elevated creatine kinase
+324,Elevated creatinine kinase
+325,Elevated levels of serum amylase
+326,Elevated serum glutamic oxaloacetic transaminase
+327,Elevated serum glutamic pyruvic transaminase
+328,Emotional lability
+329,Endometrial hyperplasia
+330,Endotracheal tube blockade
+331,Enlarged heart
+332,Enlarged ovary
+333,Enlarged salivary gland
+334,Enlarged spleen
+335,Epigastric pain
+336,Erectile dysfunction
+337,Erythema (skin redness)
+338,Erythema multiforme
+339,Erythematous rash
+340,Esophageal bleeding
+341,Esophagitis
+342,Euphoria (feeling of intense excitement and happiness)
+343,Excessive hair growth on face
+344,Excessive salivation
+345,Excessive thirst
+346,Excitation
+347,Excitement
+348,Exhaustion
+349,Extrapyramidal symptoms
+350,Extrasystoles
+351,Extravasation
+352,Exudate
+353,Eye discharge
+354,Eye discoloration
+355,Eye discomfort
+356,Eye disorder
+357,Eye floaters
+358,Eye infection
+359,Eye inflammation
+360,Eye irritation
+361,Eye itching
+362,Eye pain
+363,Eye redness
+364,Eye swelling
+365,Eye toxicity
+366,Eye twitching
+367,Eyelash changes
+368,Eyelid inflammation
+369,Eyelid itching
+370,Eyelid swelling
+371,Facial hair growth
+372,Facial swelling
+373,Fainting
+374,Fall
+375,Fast heart rate
+376,Fat in stool
+377,Fatigue
+378,Fear
+379,Febrile neutropenia
+380,Febrile response
+381,Fecal impaction (hardened stool that stays stuck in the rectum or lower colon)
+382,Feeling hot
+383,Feeling of cold
+384,Feeling of discomfort
+385,Feeling of fullness
+386,Feeling sick
+387,Feeling thirsty
+388,Feet swelling
+389,Fever
+390,Fever due to low white blood cell count (neutrophils)
+391,Flaccid paralysis
+392,Flakes on scalp
+393,Flatulence
+394,Flatus with discharge
+395,Flu
+396,Flu-like symptoms
+397,Fluid overload
+398,Fluid retention
+399,"Flushing (sense of warmth in the face, ears, neck and trunk)"
+400,Flushing of face
+401,Flushing of skin
+402,Folic acid deficiency
+403,Follicular conjunctivitis
+404,Foreign body sensation
+405,Foreign body sensation in eyes
+406,Fracture
+407,Frequent urge to urinate
+408,Fulminant hepatitis (viral infection of liver)
+409,Fungal infection
+410,Fungal infection of mouth
+411,Fungal infection of oropharynx
+412,Fungal infection of vagina
+413,Fungal infections in the mouth
+414,Gallstones
+415,Gastric irritation
+416,Gastritis
+417,Gastro-esophageal reflux disease
+418,Gastroenteritis
+419,Gastrointesinal symptoms
+420,Gastrointestinal bleeding
+421,Gastrointestinal discomfort
+422,Gastrointestinal disorder
+423,Gastrointestinal disturbance
+424,Gastrointestinal inflammation
+425,Gastrointestinal irritation
+426,Gastrointestinal motility disorder
+427,Gastrointestinal perforation
+428,Gastrointestinal toxicity
+429,Gastrointestinal ulcer
+430,General discomfort
+431,Generalized pain
+432,Generalized swelling
+433,Generalized tonic-clonic seizure
+434,Genital edema
+435,Genital fungal infection
+436,Genital infection
+437,Genital itching
+438,Gingival hypertrophy (gum enlargement)
+439,Glaucoma
+440,Glossitis (tongue inflammation)
+441,Glucose in urine
+442,Glucose intolerance
+443,Glycosuria
+444,Goiter (enlarged thyroid gland)
+445,Gout
+446,Gout flares
+447,Granulocytopenia
+448,Growth retardation
+449,Growth retardation in children
+450,Gum Irritation
+451,Gum swelling
+452,Hair discoloration
+453,Hair follicle inflammation
+454,Hair loss
+455,Hallucination
+456,Hand-foot syndrome
+457,Hangover
+458,Hard Dental Plaque
+459,Hay fever
+460,Headache
+461,Hearing loss
+462,Heart attack
+463,Heart failure
+464,Heartburn
+465,Heaviness
+466,Hematological disorder
+467,Hematoma
+468,Hemiparesis (weakness on one side of the body)
+469,Hemiplegia (paralysis of one side of the body)
+470,Hemolytic anemia
+471,Hemorrhage
+472,Hemorrhagic colitis
+473,Hemorrhagic complications
+474,Hepatic insufficiency
+475,Hepatitis (viral infection of liver)
+476,Hepatomegaly (enlarged liver)
+477,Herpes virus infection
+478,Hiccup
+479,High blood pressure
+480,High grade fever
+481,High white blood cell count
+482,Hives
+483,Hoarseness of voice
+484,Hormone imbalance
+485,Hostility
+486,Hot flashes
+487,Hot flushes
+488,Hyperactivity
+489,Hypercholesterolemia (high cholesterol)
+490,Hyperemia
+491,Hypereosinophilia
+492,Hypersensitivity
+493,Hypertensive crisis
+494,Hypertonia (increased muscle tone)
+495,Hypertrichosis (excessive hair growth)
+496,Hypertrichosis lanuginosa
+497,Hypoesthesia (decreased sensitivity to stimuli)
+498,Hypoglycaemia (low blood sugar level) in combination with insulin or sulphonylurea
+499,Hypoglycemia (low blood glucose level)
+500,Hypokalemic alkalosis
+501,Hypomania
+502,Hyponatraemia
+503,Hypopigmentation
+504,Hypotension (low blood pressure)
+505,Hypothalamic-pituitary-adrenal axis suppression
+506,Hypotonia (decreased muscle tone)
+507,Hypoxia (decreased oxygen level in blood)
+508,Idiopathic intracranial hypertension
+509,Idiopathic thrombocytopenic purpura
+510,Impaired concentration
+511,Impaired coordination
+512,Impaired judgment
+513,Impaired wound healing
+514,Impotence
+515,Inability to concentrate
+516,Increase haematocrit
+517,Increased alanine aminotransferase
+518,Increased alertness
+519,Increased alkaline phosphatase level in blood
+520,Increased androgen levels
+521,Increased appetite
+522,Increased aspartate aminotransferase
+523,Increased bilirubin in the blood
+524,Increased bleeding tendency
+525,Increased bleeding time
+526,Increased blood lipid level
+527,Increased blood urea
+528,Increased blood urea nitrogen
+529,Increased blood uric acid
+530,Increased body temperature
+531,Increased bowel movements
+532,Increased bronchial secretions
+533,Increased calcium in urine
+534,Increased calcium level in blood
+535,Increased creatine phosphokinase (CPK) level in blood
+536,Increased creatinine level in blood
+537,Increased facial sebum production
+538,Increased gamma-glutamyltransferase
+539,Increased gastric acid secretion
+540,Increased glucose level in blood
+541,Increased hair growth
+542,Increased heart rate
+543,Increased hematocrit
+544,Increased hemoglobin
+545,Increased intracranial pressure
+546,Increased intraocular pressure
+547,Increased iris pigmentation
+548,Increased lacrimation
+549,Increased lactate dehydrogenase level in blood
+550,Increased levels of blood fat
+551,Increased libido
+552,Increased lipase in the blood
+553,Increased liver enzymes
+554,Increased phosphate level in blood
+555,Increased potassium level in blood
+556,Increased production of urine
+557,Increased prolactin level in blood
+558,Increased prothrombin time
+559,Increased red blood cells
+560,Increased respiratory rate
+561,Increased risk of infection
+562,Increased saliva production
+563,Increased sensitivity to light
+564,Increased sputum production
+565,Increased sweating
+566,Increased thirst
+567,Increased transaminase level in blood
+568,Increased triglyceride level in blood
+569,Increased urge to pass bowels
+570,Increased uric acid level in blood
+571,Increased uric acid level in urine
+572,Increased white blood cell count
+573,Increased white blood cell count (eosinophils)
+574,Indigestion
+575,Induration (hardening of a normally soft tissue or organ)
+576,Infection
+577,Infection following abortion
+578,Inflammation
+579,Inflammation of hair follicles
+580,Inflammation of tendons
+581,Inflammation of the nose
+582,Inflammation of the rectum
+583,Inflammation of vein
+584,Influenza
+585,Influenza like syndrome
+586,Infusion reaction
+587,Infusion site inflammation
+588,Infusion site reaction
+589,Infusion site vesicles
+590,Injection site allergic reaction
+591,Injection site bleeding
+592,Injection site bruising
+593,Injection site hematoma
+594,Injection site induration (hardening of a normally soft tissue or organ)
+595,Injection site inflammation
+596,Injection site irritation
+597,Injection site itching
+598,Injection site pain
+599,Injection site reaction
+600,"Injection site reactions (pain, swelling, redness)"
+601,Injection site redness
+602,Injection site soreness
+603,Injection site stiffness
+604,Injection site swelling
+605,Injection site tenderness
+606,Insomnia (difficulty in sleeping)
+607,Interstitial pneumonia
+608,Intestinal ulcer
+609,Involuntary muscle movement
+610,Iritis (inflammation of the middle layer of the eye)
+611,Iron deficiency
+612,Irregular heartbeats
+613,Irregular menstrual cycle
+614,Irregular uterine bleeding
+615,Irregular vaginal bleeding
+616,Irritability
+617,Irritable bladder
+618,Irritation
+619,Irritation around eyes
+620,Irritation of ear
+621,Ischemia
+622,Ischemic heart disease
+623,Itching
+624,Itchy scalp
+625,Jaundice
+626,Jaw pain
+627,Joint inflammation
+628,Joint pain
+629,Joint stiffness
+630,Joint swelling
+631,Ketones in urine
+632,Kidney damage
+633,Kidney stone
+634,Lacrimation (flow of tears)
+635,Lactic acidosis
+636,Laryngeal edema
+637,Latent diabetes mellitus
+638,Leg cramps
+639,Leg pain
+640,Lethargy
+641,Leukorrhea
+642,Lightheadedness
+643,Limb pain
+644,Limited data available
+645,Lip inflammation
+646,Lip swelling
+647,Lipodystrophy (skin thickening or pits at the injection site)
+648,Liver damage
+649,Liver disorder
+650,Liver dysfunction
+651,Liver injury
+652,Liver toxicity
+653,Local reaction
+654,Local site pain
+655,Local soft tissue inflammation
+656,Loss of accommodation
+657,Loss of appetite
+658,Low albumin level in blood
+659,Low blood platelets
+660,Low energy
+661,Low sexual desire
+662,Low urine output
+663,Lower abdominal pain
+664,Luminous phenomena (Enhanced brightness)
+665,Lung damage
+666,Lung disorder
+667,Lung infection
+668,Lupus erythematosus
+669,Lymphocytopenia
+670,Lymphopenia
+671,Maculopapular rash
+672,Mania
+673,Memory impairment
+674,Memory loss
+675,Menorrhagia (heavy menstrual bleeding)
+676,Menstrual disorder
+677,Mental impairment
+678,Metabolic acidosis
+679,Metabolic alkalosis
+680,Metabolic disorder
+681,Metallic taste
+682,Metrorrhagia (menstrual bleeding at irregular intervals)
+683,Micturition disorders
+684,Migraine
+685,Miliaria (sweat rash)
+686,Mixed hepatitis
+687,Mood changes
+688,Mood swings
+689,Mouth sore
+690,Mouth swelling
+691,Mouth ulcer
+692,Mucosal inflammation
+693,Muscle contraction
+694,Muscle coordination impaired
+695,Muscle cramp
+696,Muscle damage
+697,Muscle disorders
+698,Muscle pain
+699,Muscle rigidity
+700,Muscle spasm
+701,Muscle stiffness
+702,Muscle twitching
+703,Muscle weakness
+704,"Musculoskeletal (bone, muscle or joint) pain"
+705,Myasthenia gravis
+706,Myelodysplastic syndrome
+707,Myelosuppression
+708,Myocardial infarction
+709,Myositis
+710,Nail discoloration
+711,Nail disorder
+712,Nasal congestion (stuffy nose)
+713,Nasal discomfort
+714,Nasal dryness
+715,Nasal inflammation
+716,Nasal irritation
+717,Nasal ulceration
+718,Nasopharyngeal irritation
+719,Nasopharyngitis (inflammation of the throat and nasal passages)
+720,Nausea
+721,Neck pain
+722,Neck swelling
+723,Necrosis of femoral and humeral heads
+724,Negative nitrogen balance
+725,Nephritic syndrome
+726,Nephritis
+727,Nephrocalcinosis
+728,Nephrotic syndrome
+729,Nerve pain
+730,Nervousness
+731,Neuritis
+732,Neuropathy
+733,Neuropsychiatric symptoms
+734,Neurotoxicity
+735,Nightmares
+736,No common side effects seen
+737,Nocturia (increased urge to urinate during the night)
+738,Nosebleeds
+739,Numb penis
+740,Numbness
+741,Numbness in mouth
+742,Numbness of extremity
+743,Nystagmus (involuntary eye movement)
+744,Obesity
+745,Ocular hyperemia
+746,Oily evacuation
+747,Oily skin
+748,Oily spotting
+749,Oligospermia (low sperm count)
+750,Opportunistic infections
+751,Optic neuritis
+752,Oral hypoesthesia
+753,Oral infections
+754,Oral ulcer
+755,Oropharyngeal pain
+756,Orthostatic hypotension (sudden lowering of blood pressure on standing)
+757,Osteoporosis
+758,Otitis media (infection of ear)
+759,Ototoxicity
+760,Ovarian cysts
+761,Ovarian hyperstimulation syndrome
+762,Pain
+763,Pain behind eyes
+764,Pain during periods
+765,Pain during sexual intercourse
+766,Pain in extremities
+767,Pain in extremity
+768,"Pain in the chest, arm, or shoulder"
+769,Pain in vagina
+770,Painful blisters on hands and feet
+771,Pale red skin
+772,Pale skin
+773,Palmar-plantar erythrodysesthesia syndrome
+774,Palpitations
+775,Pancreatic inflammation
+776,Papillary conjunctivitis
+777,Papular rash
+778,Paradoxical reactions
+779,Paralysis
+780,Paresthesia (tingling or pricking sensation)
+781,Parkinson-like symptoms
+782,Parkinsonism
+783,Paronychia
+784,Parosmia (altered sense of smell)
+785,Pelvic discomfort
+786,Pelvic pain
+787,Peptic ulcer
+788,Perioral dermatitis
+789,Peripheral edema
+790,Peripheral ischemia
+791,Peripheral neuropathy (tingling and numbness of feet and hand)
+792,Petechiae (red or purple spot caused by bleeding into the skin)
+793,Pharyngeal edema
+794,Pharyngeal hypoesthesia
+795,Pharyngeal pain
+796,Pharyngitis
+797,Pharyngolaryngeal pain
+798,Photophobia
+799,Photosensitivity
+800,Phototoxicity
+801,Placental retention
+802,Pleuritis (inflammation of the tissues that line the lungs and chest cavity)
+803,Pneumonia
+804,Pneumothorax
+805,Polyuria
+806,Posterior subcapsular cataract
+807,Postoperative bleeding
+808,Postoperative muscle pain
+809,Postural hypotension (low blood pressure)
+810,Precocious puberty
+811,Premature atrial contractions
+812,Preterm and low birth weight infants
+813,Priapism
+814,Procedural hypotension (low blood pressure)
+815,Prolonged QT interval
+816,Prolonged activated partial thromboplastin time (aPTT)
+817,Prolonged bleeding
+818,Prostate enlargement
+819,Protein in urine
+820,Pseudomembranous colitis
+821,Psoriasis
+822,Psychiatric disturbances
+823,Psychomotor impairment
+824,Psychosis
+825,Psychotic disorder
+826,Pulmonary fibrosis
+827,Pulmonary hemorrhage
+828,Pulmonary hypertension (high blood pressure)
+829,Punctate keratitis
+830,Purpura
+831,Rash
+832,Raynaud's phenomenon
+833,Rectal bleeding
+834,Rectal discomfort
+835,Red spots or bumps
+836,Redness of skin
+837,Reduce bronchial secretion
+838,Reduced bronchial secretions
+839,Reduced sweating
+840,Reduced visual acuity
+841,Reduction in bone density
+842,Reflex bradycardia
+843,Renal dysfunction
+844,Renal impairment
+845,Renal injury
+846,Renal tubular acidosis
+847,Respiratory arrest
+848,Respiratory depression
+849,Respiratory disorder
+850,Respiratory tract infection
+851,Respiratory tract inflammation
+852,Restlessness
+853,Retching
+854,Retrograde ejaculation
+855,Reye's syndrome like symptoms
+856,Rhabdomyolysis
+857,Rigidity
+858,Rigors
+859,Ring scotoma
+860,Ringing in ear
+861,Rosacea
+862,Runny nose
+863,Salivary gland inflammation
+864,Salivation
+865,Salpingitis
+866,Salt and water retention
+867,Scaling
+868,Scleral icterus
+869,Scratch dermatitis
+870,Second primary malignancies
+871,Secondary infections
+872,Sedation
+873,Seizure
+874,Sepsis
+875,Serum sickness
+876,Sexual dysfunction
+877,Shakiness
+878,Shivering
+879,Shock
+880,Shortness of breath
+881,Sinus disorder
+882,Sinus infection
+883,Sinus inflammation
+884,Sinus pain
+885,Skin and cutaneous disorders
+886,Skin atrophy
+887,Skin bleeding
+888,Skin burn
+889,Skin discoloration
+890,Skin disorder
+891,Skin erosion
+892,Skin eruptions
+893,Skin exfoliation
+894,Skin flakes
+895,Skin irritation
+896,Skin lesion
+897,Skin maceration
+898,Skin pain
+899,Skin peeling
+900,Skin pigmentation
+901,Skin rash
+902,Skin reaction
+903,Skin staining
+904,Skin swelling
+905,Skin ulcer
+906,Sleep disorder
+907,Sleep disturbance
+908,Sleepiness
+909,Slow growth in children and teenagers
+910,Slow heart rate
+911,Slurred speech
+912,Sneezing
+913,Sodium retention
+914,Soft stools
+915,Softening of bones
+916,Sore eye
+917,Sore throat
+918,Sore tongue
+919,Soreness
+920,Speech disorder
+921,Staining of teeth
+922,Steroid myopathy
+923,Stevens-Johnson syndrome
+924,Sticky stools
+925,Stiffness
+926,Stinging in the eyes
+927,Stinging sensation
+928,Stomach cramp
+929,Stomach discomfort
+930,Stomach fullness
+931,Stomach inflammation
+932,Stomach irritation
+933,Stomach pain
+934,Stomach pain/epigastric pain
+935,Stomach pressure
+936,Stomatitis (Inflammation of the mouth)
+937,Stretch marks
+938,Subarachnoid hemorrhage
+939,Subconjunctival hemorrhage
+940,Subdural hematoma
+941,Suicidal behaviors
+942,Superficial keratitis
+943,Superficial punctate keratitis
+944,Sweating
+945,Swelling
+946,Swelling of breast in male
+947,Swelling of hands
+948,Swelling of legs
+949,Swelling of lymph nodes
+950,Systemic hypertension (high blood pressure)
+951,Systemic lupus erythematosus
+952,Tachycardia
+953,Taste change
+954,Teary eyes
+955,Telangiectasia
+956,Tenderness
+957,Tendon rupture
+958,Tenesmus (increased urge to pass stools)
+959,Testicular atrophy
+960,Thickened respiratory tract secretions
+961,Thinning of skin
+962,Throat infection
+963,Throat irritation
+964,Throat pain
+965,Thrombocytosis
+966,Thromboembolism
+967,Thrombophlebitis
+968,Thrombotic thrombocytopenic purpura
+969,Thrush
+970,Thyroid disorders
+971,Tightness sensation
+972,Tingling
+973,Tingling sensation
+974,Tingling sensation of extremity
+975,Tiredness
+976,Tissue necrosis
+977,Tongue discoloration
+978,Tongue irritation
+979,Tongue pain
+980,Tonic-clonic seizures
+981,Tooth discolouration
+982,Toxic epidermal necrolysis
+983,Transient burning
+984,Transient increase in white blood cell count (eosinophils)
+985,Transient myopia
+986,Transient stinging
+987,Trembling
+988,Tremors
+989,Tumor pain
+990,Ulcer
+991,Uncoordinated body movements
+992,Unpleasant breath odour
+993,Unsteadiness
+994,Unusual crying
+995,Unusual production of breast milk in women and men
+996,Upper abdominal pain
+997,Upper respiratory tract infection
+998,Upset stomach
+999,Urinary incontinence
+1000,Urinary retention
+1001,Urinary tract disorder
+1002,Urinary tract infection
+1003,Urine discoloration
+1004,Urolithiasis
+1005,Urticaria
+1006,Uterine bleeding
+1007,Uterine contractions
+1008,Uterine cramps
+1009,Uterine hyperstimulation
+1010,Uterine tachysystole
+1011,Vaginal bleeding
+1012,Vaginal burning sensation
+1013,Vaginal discharge
+1014,Vaginal infection
+1015,Vaginal inflammation
+1016,Vaginal irritation
+1017,Vaginal itching
+1018,Vaginal moniliasis
+1019,Vaginal spotting
+1020,Vaginal yeast infection
+1021,Valvulopathy and related disorders
+1022,Vascular dilatation
+1023,Vascular engorgement
+1024,Vascular occlusion
+1025,Vasculitis
+1026,Vasoconstriction of the extremities
+1027,Vasodilation
+1028,Ventricular arrhythmia
+1029,Ventricular premature contractions
+1030,Vertigo
+1031,Vesicular dermatitis
+1032,Viral infection
+1033,Virilism
+1034,Visual disorder
+1035,Visual disturbance
+1036,Visual impairment
+1037,Voice change
+1038,Volume depletion
+1039,Vomiting
+1040,Vulvovaginal discomfort
+1041,Vulvovaginal disorders
+1042,Walking difficulties
+1043,Watery diarrhoea
+1044,Watery eyes
+1045,Weakness
+1046,Weight gain
+1047,Weight loss
+1048,Wheezing
+1049,Withdrawal symptoms
+1050,Worsening of a pre-existing breathing problem
+1051,Worsening of acne
+1052,Xerostomia
+1053,Yawning

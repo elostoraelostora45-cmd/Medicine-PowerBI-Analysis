@@ -1,0 +1,90 @@
+/* Power Query (M) code - SIS Final Project - Medicine Dataset Cleaning
+   Queries are ordered as documented in PowerQuery_Cleaning_Steps.docx
+   NOTE: adjust the folder path C:\SIS_Project\Data\ to your own folder. */
+
+// ============ 1) DimChemicalClass_Base (import + text cleaning, Enable Load: OFF) ============
+let
+    Source = Csv.Document(File.Contents("C:\SIS_Project\Data\DimChemicalClass.csv"),
+        [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+    PromotedHeaders = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+    ChangedType = Table.TransformColumnTypes(PromotedHeaders,
+        {{"ChemicalClassID", Int64.Type}, {"ChemicalClass", type text}}),
+    Trimmed = Table.TransformColumns(ChangedType,
+        {{"ChemicalClass", each Text.Clean(Text.Trim(_)), type text}}),
+    SingleSpaced = Table.TransformColumns(Trimmed,
+        {{"ChemicalClass", each Text.Combine(List.Select(Text.SplitAny(_,
+            " " & "#(cr)#(lf)#(tab)"), each _ <> ""), " "), type text}})
+in
+    SingleSpaced
+
+// ============ 2) DimChemicalClass (final dim, Enable Load: ON) ============
+let
+    Base = DimChemicalClass_Base,
+    AddedKey = Table.AddColumn(Base, "Key", each Text.Lower([ChemicalClass]), type text),
+    Sorted = Table.Sort(AddedKey, {{"ChemicalClassID", Order.Ascending}}),
+    Deduplicated = Table.Distinct(Sorted, {"Key"}),
+    Final = Table.RemoveColumns(Deduplicated, {"Key"})
+in
+    Final
+
+// ============ 3) Map_ChemicalClass (mapping query, Enable Load: OFF) ============
+let
+    Base = DimChemicalClass_Base,
+    AddedKey = Table.AddColumn(Base, "Key", each Text.Lower([ChemicalClass]), type text),
+    Grouped = Table.Group(AddedKey, {"Key"},
+        {{"CanonicalID", each List.Min([ChemicalClassID]), Int64.Type}}),
+    Joined = Table.NestedJoin(AddedKey, {"Key"}, Grouped, {"Key"}, "G", JoinKind.LeftOuter),
+    Expanded = Table.ExpandTableColumn(Joined, "G", {"CanonicalID"}),
+    OnlyChanged = Table.SelectRows(Expanded, each [ChemicalClassID] <> [CanonicalID]),
+    Final = Table.SelectColumns(OnlyChanged, {"ChemicalClassID", "CanonicalID"})
+in
+    Final
+
+// ============ 4) DimMedicine (Enable Load: ON) ============
+let
+    Source = Csv.Document(File.Contents("C:\SIS_Project\Data\DimMedicine.csv"),
+        [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+    PromotedHeaders = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+    SelectedColumns = Table.SelectColumns(PromotedHeaders,
+        {"MedicineID", "name", "Habit Forming", "TherapeuticClassID", "ChemicalClassID", "ActionClassID"}),
+    ChangedType = Table.TransformColumnTypes(SelectedColumns,
+        {{"MedicineID", Int64.Type}, {"name", type text}, {"Habit Forming", type text},
+         {"TherapeuticClassID", Int64.Type}, {"ChemicalClassID", Int64.Type}, {"ActionClassID", Int64.Type}}),
+    CleanedText = Table.TransformColumns(ChangedType,
+        {{"name", each Text.Clean(Text.Trim(_)), type text},
+         {"Habit Forming", each Text.Proper(Text.Trim(_)), type text}})
+in
+    CleanedText
+
+// ============ 5) Inside DimMedicine: remap ChemicalClassID via Map_ChemicalClass ============
+    MergedChemical = Table.NestedJoin(PreviousStep, {"ChemicalClassID"},
+        Map_ChemicalClass, {"ChemicalClassID"}, "MapChem", JoinKind.LeftOuter),
+    ExpandedChemical = Table.ExpandTableColumn(MergedChemical, "MapChem", {"CanonicalID"}),
+    UpdatedChemical = Table.ReplaceValue(ExpandedChemical, each [ChemicalClassID],
+        each if [CanonicalID] <> null then [CanonicalID] else [ChemicalClassID],
+        Replacer.ReplaceValue, {"ChemicalClassID"}),
+    RemovedTemp = Table.RemoveColumns(UpdatedChemical, {"CanonicalID"})
+    // كرري نفس النمط لـ TherapeuticClassID و ActionClassID
+
+// ============ 6) Inside BridgeMedicineSubstitute: remap SubstituteID + remove duplicates ============
+    MergedSub = Table.NestedJoin(PreviousStep, {"SubstituteID"},
+        Map_Substitute, {"SubstituteID"}, "MapSub", JoinKind.LeftOuter),
+    ExpandedSub = Table.ExpandTableColumn(MergedSub, "MapSub", {"CanonicalID"}),
+    UpdatedSub = Table.ReplaceValue(ExpandedSub, each [SubstituteID],
+        each if [CanonicalID] <> null then [CanonicalID] else [SubstituteID],
+        Replacer.ReplaceValue, {"SubstituteID"}),
+    RemovedTemp = Table.RemoveColumns(UpdatedSub, {"CanonicalID"}),
+    RemovedDuplicates = Table.Distinct(RemovedTemp)
+
+// ============ 7) DimUse_Base: same pattern as DimChemicalClass_Base with UseID/Use
+//    plus the two conditional replacements below inside the final query ============
+    ReplacedUse1 = Table.ReplaceValue(CleanedText, each [Use],
+        each if [UseID] = 1 then "Common cold" else [Use],
+        Replacer.ReplaceValue, {"Use"}),
+    ReplacedUse485 = Table.ReplaceValue(ReplacedUse1, each [Use],
+        each if [UseID] = 485 then "Depression" else [Use],
+        Replacer.ReplaceValue, {"Use"})
+
+// Repeat the Base/Final/Map pattern for: DimSubstitute (SubstituteID / SubstituteName),
+// DimUse (UseID / Use). DimSideEffect, DimActionClass, DimTherapeuticClass and
+// BridgeMedicineSideEffect need import + types + Trim only (no duplicates found).

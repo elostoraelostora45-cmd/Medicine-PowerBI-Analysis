@@ -1,0 +1,814 @@
+UseID,Use
+1,Common cold
+2,Abdominal cramp
+3,Abdominal pain
+4,Acidity
+5,Acne
+6,Acromegaly
+7,Actinic keratosis
+8,Acute Heart failure
+9,Acute Sore throat
+10,Acute lymphoblastic leukemia
+11,Acute migraine headache
+12,Acute promyelocytic leukaemia
+13,Acute renal failure
+14,Addison's disease
+15,Age related memory loss
+16,Alcohol addiction
+17,Alcohol withdrawal
+18,Alcoholic fatty liver disease
+19,Allergic conditions
+20,Allergic eye disease
+21,Allergic skin conditions
+22,Alzheimer's disease
+23,Amyotrophic lateral sclerosis (ALS)
+24,Anemia
+25,Anemia due to cancer chemotherapy
+26,Anemia due to chronic kidney disease
+27,Anemia due to folic acid deficiency
+28,Anesthesia
+29,Angina (heart-related chest pain)
+30,Angioedema
+31,Ankylosing spondylitis
+32,Anxiety
+33,Anxiety disorder
+34,Apnea of prematurity
+35,Appetite stimulant
+36,Arrhythmia
+37,Arthralgia (joint pain)
+38,As a Sedative
+39,Asthma
+40,Atopic dermatitis
+41,Attention deficit hyperactivity disorder (ADHD)
+42,Autologous stem cell transplant
+43,Bacterial & parasitic infections
+44,Bacterial eye / ear infections
+45,Bacterial eye infections
+46,Bacterial infections
+47,Bacterial infections of external ear
+48,Bacterial infections of the vagina (bacterial vaginosis)
+49,Bacterial infections of urinary tract
+50,Bacterial skin infections
+51,Basal cell cancer
+52,Bed-wetting
+53,Benign prostatic hyperplasia
+54,Benzodiazepine overdose
+55,Bipolar depression
+56,Bipolar disorder
+57,Bleeding
+58,Bleeding esophageal varices
+59,Bloating
+60,Blood cancer
+61,Blood cancer (Acute lymphocytic leukemia)
+62,Blood cancer (Chronic lymphocytic leukemia)
+63,Blood cancer (Chronic myeloid leukaemia)
+64,Blood clots
+65,Bradycardia
+66,Brain tumor
+67,Breast cancer
+68,Burns
+69,Calcium deficiency
+70,Cancer
+71,Cancer of colon and rectum
+72,Cancer of head and neck
+73,"Cancer of mouth, nasopharynx and paranasal sinuses, larynx, oesophagus"
+74,Carcinoid tumours
+75,Cardiac arrest
+76,Carnitine deficiency
+77,Cerebral edema (accumulation of excessive fluid in the brain)
+78,Cervical Dystonia
+79,Cervical cancer
+80,Chickenpox
+81,Chronic hepatitis B virus (HBV) infection
+82,Chronic hepatitis C virus (HCV) infection
+83,Chronic idiopathic myelofibrosis
+84,Chronic immune thrombocytopenia
+85,Chronic liver disease
+86,Chronic obstructive pulmonary disease (COPD)
+87,Chronic pancreatitis
+88,Clostridium difficile associated diarrhea
+89,Closure of surgical incisions
+90,Cognitive enhancer
+91,Colicky pain
+93,Common cold symptoms with fever
+94,Congenital adrenal hyperplasia
+95,Conscious sedation during diagnostic or therapeutic procedures
+96,Constipation
+97,Contraception
+98,Controlling Heart failure
+99,Corns
+100,Cough
+101,Cough with mucus
+102,Crohn’s disease
+103,Cytomegalovirus Infection
+104,Dandruff
+105,Decreased blood pressure
+106,Decreased magnesium levels in blood
+107,Deep vein thrombosis
+108,Dehydration
+109,Dementia
+110,Dementia in Parkinson's disease
+111,Dental cavities
+112,Depression
+113,Dermatitis
+114,Diabetes
+115,Diabetes insipidus
+116,Diabetes with high cholesterol
+117,Diabetic dyslipidemia (high cholesterol in diabetes)
+118,Diabetic eye disease
+119,Diabetic foot ulcers
+120,Diabetic macular edema (accumulation of fluid in eye of diabetic patients)
+121,Diabetic nerve pain
+122,Diabetic ulcers
+123,Diagnostic agent
+124,Diarrhea
+125,Diphtheria
+126,Diseases of respiratory tract
+127,Drug induced CNS depression
+128,Drug induced abnormal movements
+129,Drug intoxication
+130,Dry Skin
+131,Dry cough
+132,Dry eyes
+133,Dry mouth
+134,Dry mouth after radiotherapy of head and neck cancer
+135,Dysentery
+136,Ear infection
+137,Early Breast cancer
+138,Eczema
+139,Edema
+140,Emergency contraception
+141,Endometrial cancer
+142,Endometriosis
+143,Epilepsy
+144,Epilepsy/Seizures
+145,Erectile dysfunction
+146,Ewing's sarcoma
+147,Excessive skin dryness
+148,Eye Irritation
+149,Eye anesthesia
+150,Eye disorders
+151,Eye examination
+152,Eye infection
+153,Eye infections by Herpes simplex virus
+154,Eye injury
+155,Facial hirsutism (Excessive hair growth on face)
+156,Fatty liver disease
+157,Fatty liver with diabetes
+158,Female infertility
+159,Fever
+160,Fibromyalgia
+161,Filariasis
+162,Follicular lymphoma
+163,Food allergies
+164,Fungal infections
+165,Fungal infections of eye
+166,Fungal infections of mouth (Thrush)
+167,Fungal infections of vagina
+168,Fungal nail infections
+169,Fungal skin infections
+170,Gastroesophageal reflux disease (Acid reflux)
+171,Gastrointestinal stromal tumour
+172,General Anaesthesia
+173,Genital herpes infection
+174,Genital warts (Skin bumps on or around the genital or anal area)
+175,Gestational trophoblastic neoplasia
+176,Glaucoma
+177,Gout
+178,Granulomatosis with polyangiitis
+179,Growth failure due to growth hormone deficiency
+180,HIV infection
+181,Haemophilus influenzae Type b disease
+182,Hair loss
+183,Hairy cell leukemia
+184,Head and neck cancer
+185,Head injury
+186,Head lice
+187,Heart attack
+188,Heart attack prevention and high blood pressure
+189,Heart attack prevention and high cholesterol
+190,Heart disease
+191,Heart failure
+192,Heartburn
+193,Heavy menstrual bleeding
+194,Heavy metal toxicity
+195,Heparin overdose
+196,Hepatic encephalopathy
+197,Herpes Simplex Virus Infections
+198,Herpes labialis
+199,Herpes zoster
+200,High blood pressure with high cholesterol
+201,High cholesterol
+202,High homocysteine and cholesterol level
+203,High levels of prolactin
+204,High phosphate levels in blood
+205,High triglycerides
+206,Hodgkin’s disease
+207,Hormone replacement therapy
+208,Huntington's disease
+209,Hypercalcemia
+210,Hyperpigmentation
+211,Hypersensitivity
+212,Hypertension (high blood pressure)
+213,Hypertensive emergency
+214,Hyperthyroidism
+215,Hypotension following spinal anesthesia
+216,Idiopathic pulmonary fibrosis
+217,Ifosfamide-induced hemorrhagic cystitis
+218,Immunity booster
+219,Immunity booster in Viral Infections
+220,Immunoglobulins deficiency
+221,Improving Abdominal pain
+222,Increased potassium levels in blood
+223,Indigestion
+224,Induction of labour
+225,Infantile spasms
+226,Infections
+227,Infectious diarrhea
+228,Infertility
+229,Inflammation of gums
+230,Insomnia
+231,Intermittent claudication
+232,Interstitial cystitis
+233,Intestinal amoebiasis
+234,Intestinal ulcers
+235,Intestine preparation before any surgery
+236,Intrauterine growth restriction (IUGR)
+237,Iron deficiency
+238,Iron deficiency anemia
+239,Iron overload
+240,Irrigant during prostate and bladder surgery
+241,Irritable bowel syndrome
+242,Ischemic stroke
+243,Itching
+244,Kala-azar
+245,Kidney cancer
+246,Kidney stone
+247,Leg ulcers
+248,Lennox–Gastaut syndrome
+249,Lepra reaction
+250,Leprosy
+251,Liver disease
+252,Liver abscesses
+253,Liver cancer
+254,Liver cirrhosis
+256,Local anesthesia (Numb tissues in a specific area)
+257,Local ocular anesthesia
+258,Low blood pressure
+259,Low levels of sodium in the blood
+260,Low platelet count due to ITP or HCV infection
+261,Low potassium
+262,Lung cancer
+263,Macular edema due to retinal vein occlusion
+264,Malaria
+265,Male hypogonadism
+266,Male infertility
+267,Malignant melanoma
+268,Malignant pleural mesothelioma
+269,Managing Hypoglycemia (low blood sugar)
+270,Managing Wound infection
+271,Mania
+272,Mantle-cell lymphoma
+273,Medical abortion
+274,Melanoma
+275,Melasma
+276,Meniere's disease
+277,Menopausal symptoms
+278,Menstrual pain
+279,Metabolic acidosis
+280,Metastatic breast cancer
+281,Microscopic polyangiitis
+282,Migraine
+283,Moderate to severe pain
+284,Morning sickness
+285,Motion sickness
+286,Mouth infection
+287,Mouth ulcers
+288,Multiple myeloma
+289,Multiple sclerosis (MS)
+290,Muscle pain
+291,Muscle relaxation
+292,Muscle spasm
+293,Myasthenia gravis
+294,Myelodysplastic syndrome
+295,Narcolepsy (Uncontrollable daytime sleepiness)
+296,Nasal allergy symptoms
+297,Nasal congestion (blocked nose)
+298,Nausea
+299,Nausea and vomiting due to chemotherapy
+300,Nausea and vomiting in pregnancy
+301,Nephrotic syndrome
+302,Neuropathic pain
+303,Non-Hodgkin lymphoma (NHL)
+304,Non-alcoholic fatty liver disease
+305,Non-small cell lung cancer
+306,Noncirrhotic Non-Alcoholic Steatohepatitis
+307,Nutritional deficiencies
+308,Obesity
+309,Obsessive-compulsive disorder
+310,Ocular hypertension
+311,Opioid (Morphine) dependence
+312,Opioid dependence
+313,Opioid toxicity
+314,Oral lichen planus
+315,Organophosphate poisoning
+316,Osteoarthritis
+317,Osteoporosis
+318,Ovarian cancer
+319,Overactive bladder (OAB) symptoms
+320,Paget's disease
+321,Pain due to muscle spasm
+322,Pain due to smooth Muscle spasm
+324,Pain during menstruation
+325,Pain relief
+326,Pancreatic cancer
+327,Pancreatic enzyme deficiency
+328,Panic disorder
+329,Paralytic ileus
+330,Parasitic infections
+331,Parkinson's disease
+332,Peptic ulcer disease
+333,Periodontitis
+334,Peripheral vascular disease
+335,Pertussis
+336,Piles
+337,Plaque psoriasis
+338,Poisoning
+339,Polio
+340,Polycystic ovarian syndrome (PCOS)
+341,Polycythemia vera
+342,Post menopausal osteoporosis
+343,Post traumatic stress disorder
+344,Post-anesthesia respiratory depression (Respiratory problems in the post-anesthesia care)
+345,Post-delivery bleeding
+346,Post-operative eye pain and inflammation
+347,Post-operative urinary retention
+348,Potassium deficiency
+349,Precocious puberty (premature puberty)
+350,Premature Labor
+351,Premenstrual syndrome (PMS)
+352,Preservative
+353,Prevention of Angina (heart-related chest pain)
+354,Prevention of Asthma
+355,Prevention of Blood clots
+356,Prevention of Breast cancer
+357,Prevention of Cervical cancer
+358,Prevention of Chickenpox
+359,Prevention of Cholera
+360,Prevention of Chronic hepatitis B virus (HBV) infection
+361,Prevention of Coronavirus disease (COVID-19)
+362,Prevention of Diphtheria
+363,Prevention of Genital warts (Skin bumps on or around the genital or anal area)
+364,Prevention of HPV-associated cancers
+365,Prevention of Haemophilus influenzae Type b disease
+366,Prevention of Harmful effects of methotrexate
+367,Prevention of Heart attack
+368,Prevention of Heart failure
+369,Prevention of Hepatitis A infection
+370,Prevention of Hepatitis B infection
+371,Prevention of Herpes zoster
+372,Prevention of Infections
+373,Prevention of Infections after chemotherapy
+374,Prevention of Influenza (flu)
+375,Prevention of Japanese Encephalitis
+376,Prevention of Malaria
+377,Prevention of Measles
+378,Prevention of Meningococcal disease
+379,Prevention of Migraine
+380,Prevention of Mumps
+381,Prevention of Pertussis
+382,Prevention of Polio
+383,Prevention of Post menopausal osteoporosis
+384,Prevention of Postpartum Bleeding
+385,Prevention of Premature Labor
+386,Prevention of Prevention of Hepatitis B infection
+387,Prevention of Rabies
+388,Prevention of Rheumatic fever
+389,Prevention of Rubella
+390,Prevention of Stroke
+391,Prevention of Tetanus
+392,Prevention of Tuberculosis (TB)
+393,Prevention of Typhoid fever
+394,Prevention of Wound infection
+395,Prevention of Yellow fever
+396,Prevention of diarrhea due to rotavirus
+397,Prevention of heart attack and stroke
+398,Prevention of kidney transplant rejection
+400,Prevention of organ rejection in transplant patients
+401,"Prevention of pneumonia, meningitis, blood infection & ear infection"
+402,Prostate cancer
+403,Pruritus
+404,Psoriasis
+405,Psoriatic arthritis
+406,Pulmonary arterial hypertension (PAH)
+407,Pulmonary embolism
+408,Pupil dilation
+409,Quitting smoking
+410,Raynaud's disease
+411,Redness and swelling in the eye
+412,Relapsing forms of multiple sclerosis (MS)
+413,Respiratory distress syndrome (immature lungs in preterm baby)
+414,Respiratory tract disorders associated with viscid mucus
+415,Respiratory tract infection
+416,Restless leg syndrome
+417,Reversal of effect of skeletal muscle relaxant after surgery
+418,Reversing the effects of certain drugs used during surgery
+419,Rheumatic disorder
+420,Rheumatoid arthritis
+421,Rosacea
+422,Scabies
+423,Schistosoma infections
+424,Schizophrenia
+425,Sedative
+426,Seizures in pregnant women with high blood pressure
+427,Severe Diarrhea
+428,Severe acute pain
+429,Severe allergic reactions
+430,Severe anxiety
+431,Severe bacterial infections
+432,Severe chronic pain
+433,Severe fungal infections
+434,Severe hypoglycemia
+435,Shingles
+436,Short term anxiety
+437,Short term fluid replacement after trauma
+438,Sickle cell anemia
+439,Skeletal muscle relaxation during surgery
+440,Skin cancer
+441,Skin conditions with inflammation & itching
+442,Skin disorders
+443,Skin infections
+444,Small cell lung cancer
+445,Smoking addiction
+446,Snake Bite
+447,Sneezing and runny nose due to allergies
+448,Soft tissue sarcoma
+449,Softening Earwax
+450,Softening of earwax
+451,Sore throat
+452,Stomach cancer
+453,Stomach ulcers
+454,Stretch Marks
+455,Stroke
+456,Subarachnoid haemorrhage
+457,Sunburn
+458,Swelling
+459,Symptomatic Pain relief
+460,Syndromic treatment of vaginal discharge
+461,Syphilis
+462,Testicular cancer
+463,Tetanus
+464,Thrombophlebitis
+465,Thyroid cancer
+466,Tinnitus (ringing in the ears)
+467,Toxoplasmosis during pregnancy
+468,Transfusion dependent thalassemia
+469,Treatment and prevention of Asthma
+470,Treatment and prevention of Blood clots
+471,Treatment and prevention of Calcium deficiency
+472,Treatment and prevention of Chronic obstructive pulmonary disease (COPD)
+473,Treatment and prevention of Epilepsy/Seizures
+474,Treatment and prevention of Heart attack
+475,Treatment and prevention of Influenza (flu)
+476,Treatment and prevention of Kidney stone
+477,Treatment and prevention of Lung infections in patients with cystic fibrosis
+478,Treatment and prevention of Meniere's disease
+479,Treatment and prevention of Meningococcal disease
+480,Treatment and prevention of Migraine
+481,Treatment and prevention of Motion sickness
+482,Treatment and prevention of Post menopausal osteoporosis
+483,Treatment and prevention of Stroke
+484,Treatment and prevention of Wound infection
+486,Treatment of Abdominal cramp
+487,Treatment of Abdominal pain
+488,Treatment of Abnormal uterine bleeding
+489,Treatment of Acidity
+490,Treatment of Acne
+491,Treatment of Acute Sore throat
+492,Treatment of Acute migraine headache
+493,Treatment of Age-related hearing loss (presbycusis)
+494,Treatment of Alcohol addiction
+495,Treatment of Alcohol withdrawal
+496,Treatment of Allergic conditions
+497,Treatment of Allergic conjunctivitis
+498,Treatment of Allergic eye disease
+499,Treatment of Allergic skin conditions
+500,Treatment of Alzheimer's disease
+501,Treatment of Amenorrhea
+502,Treatment of Amoebiasis
+503,Treatment of Amyloidosis
+504,Treatment of Anal fissure
+505,Treatment of Anemia
+506,Treatment of Anemia due to cancer chemotherapy
+507,Treatment of Anemia due to chronic kidney disease
+508,Treatment of Anemia due to folic acid deficiency
+509,Treatment of Angina (heart-related chest pain)
+510,Treatment of Ankylosing spondylitis
+511,Treatment of Anxiety
+512,Treatment of Anxiety disorder
+513,Treatment of Arrhythmia
+514,Treatment of Arthralgia (joint pain)
+515,Treatment of Asthma
+516,Treatment of Autoimmune conditions
+517,Treatment of Bacterial & parasitic infections
+518,Treatment of Bacterial eye / ear infections
+519,Treatment of Bacterial eye infections
+520,Treatment of Bacterial infections
+521,Treatment of Bacterial infections of urinary tract
+522,Treatment of Bacterial skin infections
+523,Treatment of Benign fibrocystic breast disease
+524,Treatment of Benign prostatic hyperplasia
+525,Treatment of Bipolar disorder
+526,Treatment of Bleeding
+527,Treatment of Bloating
+528,Treatment of Blood cancer
+529,Treatment of Bradycardia
+530,Treatment of Breast cancer
+531,Treatment of Burns
+532,Treatment of Calcium deficiency
+533,Treatment of Cancer
+534,Treatment of Cardiac arrest
+535,Treatment of Cataract
+536,Treatment of Chronic hepatitis B virus (HBV) infection
+537,Treatment of Chronic hepatitis C virus (HCV) infection
+538,Treatment of Chronic kidney disease
+539,Treatment of Chronic non-healing wounds
+540,Treatment of Chronic obstructive pulmonary disease (COPD)
+541,Treatment of Common cold
+542,Treatment of Conjunctivitis
+543,Treatment of Constipation
+544,Treatment of Corneal inflammation
+545,Treatment of Corneal ulcer
+546,Treatment of Coronavirus disease (COVID-19)
+547,Treatment of Cough
+548,Treatment of Cough with mucus
+549,Treatment of Crohn’s disease
+550,Treatment of Dandruff
+551,Treatment of Dehydration
+552,Treatment of Dementia Associated with Parkinson's disease
+553,Treatment of Dementia in Parkinson's disease
+554,Treatment of Dental cavities
+555,Treatment of Dental pain
+556,Treatment of Depression
+557,Treatment of Dermatitis
+558,Treatment of Diabetic gastroparesis (diabetic nerve disease affecting stomach)
+559,Treatment of Diabetic kidney disease
+560,Treatment of Diabetic nerve pain
+561,Treatment of Diarrhea
+562,Treatment of Diphtheria
+563,Treatment of Drug induced abnormal movements
+564,Treatment of Dry cough
+565,Treatment of Dry eyes
+566,Treatment of Dry mouth
+567,Treatment of Dryness in the mouth after radiotherapy of head and neck cancer
+568,Treatment of Duchenne muscular dystrophy(DMD)
+569,Treatment of Dysentery
+570,Treatment of Ear Infections
+571,Treatment of Ear infection
+572,Treatment of Ear pain
+573,Treatment of Early-stage bladder cancer
+574,Treatment of Eczema
+575,Treatment of Edema
+576,Treatment of Endometriosis
+577,Treatment of Epilepsy
+578,Treatment of Epilepsy/Seizures
+579,Treatment of Erectile dysfunction
+580,Treatment of Eye disorders
+581,Treatment of Eye infection
+582,Treatment of Eye infection with inflammation
+583,Treatment of Eye infections by Herpes simplex virus
+584,Treatment of Eye injury
+585,Treatment of Eye pain
+586,Treatment of Female infertility
+587,Treatment of Fever
+588,Treatment of Fibrocystic Breast Disease
+589,Treatment of Fibromyalgia
+590,Treatment of Filariasis
+591,Treatment of Friedreich's ataxia
+592,Treatment of Functional dyspepsia
+593,Treatment of Fungal infections
+594,Treatment of Fungal infections of eye
+595,Treatment of Fungal infections of vagina
+596,Treatment of Fungal skin infections
+597,Treatment of Gallbladder stones
+598,Treatment of Gastroesophageal reflux disease (Acid reflux)
+599,Treatment of Glaucoma
+600,Treatment of Gout
+601,Treatment of HIV infection
+602,Treatment of Hair loss
+603,Treatment of Hay fever
+604,Treatment of Head injury
+605,Treatment of Headache
+606,Treatment of Heart attack
+607,Treatment of Heart failure
+608,Treatment of Heartburn
+609,Treatment of Heavy menstrual bleeding
+610,Treatment of Hepatic encephalopathy
+611,Treatment of Hepatocellular carcinoma
+612,Treatment of High calcium levels in the blood
+613,Treatment of High cholesterol
+614,Treatment of High levels of prolactin
+615,Treatment of High phosphate levels in blood
+616,Treatment of High uric acid due to chemotherapy
+617,Treatment of Hyperparathyroidism
+618,Treatment of Hyperpigmentation
+619,Treatment of Hypersensitivity
+620,Treatment of Hypertension (high blood pressure)
+621,Treatment of Hypertensive emergency
+622,Treatment of Hypothyroidism
+623,Treatment of Idiopathic pulmonary fibrosis
+624,Treatment of Ifosfamide-induced hemorrhagic cystitis
+625,Treatment of Impetigo
+626,Treatment of Increased potassium levels in blood
+627,Treatment of Indigestion
+628,Treatment of Infections
+629,Treatment of Infectious diarrhea
+630,Treatment of Infective Diarrhea
+631,Treatment of Infertility due to anovulation
+632,Treatment of Inflammation of gums
+633,Treatment of Inflammatory conditions
+634,Treatment of Influenza (flu)
+635,Treatment of Insomnia
+636,Treatment of Intermittent claudication
+637,Treatment of Intestinal amoebiasis
+638,Treatment of Intestinal ulcers
+639,Treatment of Invasive Aspergillosis
+640,Treatment of Iron deficiency
+641,Treatment of Iron deficiency anemia
+642,Treatment of Iron overload
+643,Treatment of Irritable bowel syndrome
+644,Treatment of Ischemic stroke
+645,Treatment of Jet lag
+646,Treatment of Kidney cancer
+647,Treatment of Kidney stone
+648,Treatment of Leber’s Hereditary Optic Neuropathy
+649,Treatment of Leishmaniasis.
+650,Treatment of Liver disease
+651,Treatment of Liver cancer
+653,Treatment of Localized muscle spasm
+654,Treatment of Low levels of sodium in the blood
+655,Treatment of Lung cancer
+656,Treatment of Lymphedema
+657,Treatment of Malaria
+658,Treatment of Male hypogonadism
+659,Treatment of Male infertility
+660,Treatment of Mania
+661,Treatment of Melasma
+662,Treatment of Meniere's disease
+663,Treatment of Menstrual pain
+664,Treatment of Methaemoglobinemia
+665,Treatment of Migraine
+666,Treatment of Mild to moderate Coronavirus disease (COVID-19)
+667,Treatment of Moderate to severe pain
+668,Treatment of Motion sickness
+669,Treatment of Mouth infection
+670,Treatment of Mouth ulcers
+671,Treatment of Muscle cramps
+672,Treatment of Muscle pain
+673,Treatment of Muscle spasm
+674,Treatment of Muscle spasms of the urinary tract
+675,Treatment of Muscular pain
+676,Treatment of Myasthenia gravis
+677,Treatment of Myelodysplastic syndrome
+678,Treatment of Myopia
+679,Treatment of Narcolepsy (Uncontrollable daytime sleepiness)
+680,Treatment of Nasal allergy symptoms
+681,Treatment of Nasal congestion (blocked nose)
+682,Treatment of Nasal infection
+683,Treatment of Nausea
+684,Treatment of Nausea and vomiting in pregnancy
+685,Treatment of Neuropathic pain
+686,Treatment of Non-small cell lung cancer
+687,Treatment of Nutritional deficiencies
+688,Treatment of Obsessive-compulsive disorder
+689,Treatment of Ocular hypertension
+690,Treatment of Opioid (Morphine) dependence
+691,Treatment of Osteoarthritis
+692,Treatment of Osteoporosis
+693,Treatment of Ovarian cancer
+694,Treatment of Overactive bladder (OAB) symptoms
+695,Treatment of Pain due to muscle spasm
+696,Treatment of Pain due to smooth muscle spasm
+697,Treatment of Pain during menstruation
+698,Treatment of Pain relief
+699,Treatment of Pancreatic cancer
+700,Treatment of Pancreatitis
+701,Treatment of Panic disorder
+702,Treatment of Paralytic ileus
+703,Treatment of Parasitic Worm infections
+704,Treatment of Parasitic infections
+705,Treatment of Parkinson's disease
+706,Treatment of Patent ductus arteriosus (PDA)
+707,Treatment of Peptic ulcer disease
+708,Treatment of Peripheral vascular disease
+709,Treatment of Pernicious Anemia
+710,Treatment of Pertussis
+711,Treatment of Pheochromocytoma
+712,Treatment of Piles
+713,Treatment of Polycystic ovarian syndrome (PCOS)
+714,Treatment of Post menopausal osteoporosis
+715,Treatment of Post operative pain
+716,Treatment of Post traumatic stress disorder
+717,Treatment of Post-delivery bleeding
+718,Treatment of Post-operative Gastroesophageal reflux disease (Acid reflux)
+719,Treatment of Post-operative eye pain and inflammation
+720,Treatment of Post-operative urinary retention
+721,Treatment of Potassium deficiency
+722,Treatment of Precocious puberty (premature puberty)
+723,Treatment of Premature Labor
+724,Treatment of Premature ejaculation
+725,Treatment of Premenstrual dysphoric disorder
+726,Treatment of Premenstrual syndrome (PMS)
+727,Treatment of Prevention of heart attack and stroke
+728,Treatment of Primary biliary cirrhosis
+729,Treatment of Prostate cancer
+730,Treatment of Psoriasis
+731,Treatment of Psoriatic arthritis
+732,Treatment of Pulmonary arterial hypertension (PAH)
+733,Treatment of Pulmonary embolism
+734,Treatment of Rabies
+735,Treatment of Recurrent miscarriage
+736,Treatment of Redness and swelling in the eye
+737,Treatment of Resistance Tuberculosis (TB)
+738,Treatment of Resistant Tuberculosis (TB)
+739,Treatment of Respiratory disease with excessive mucus
+740,Treatment of Respiratory tract disorders associated with viscid mucus
+741,Treatment of Respiratory tract infection
+742,Treatment of Rheumatic disorder
+743,Treatment of Rheumatoid arthritis
+744,Treatment of Schizophrenia
+745,Treatment of Severe Aplastic Anemia
+746,Treatment of Severe acute pain
+747,Treatment of Severe allergic reactions
+748,Treatment of Severe anxiety
+749,Treatment of Severe bacterial infections
+750,Treatment of Severe fungal infections
+751,Treatment of Severe sepsis
+752,Treatment of Short term anxiety
+753,Treatment of Short term fluid replacement after trauma
+754,Treatment of Skin conditions with inflammation & itching
+755,Treatment of Skin disorders
+756,Treatment of Skin infections
+757,Treatment of Small cell lung cancer
+758,Treatment of Sneezing and runny nose due to allergies
+759,Treatment of Softening of earwax
+760,Treatment of Sore throat
+761,Treatment of Status epilepticus
+762,Treatment of Stomach ulcers
+763,Treatment of Stroke
+764,Treatment of Swelling
+765,Treatment of Syndromic treatment of vaginal discharge
+766,Treatment of Syphilis
+767,Treatment of Systemic lupus erythematosus (SLE)
+768,Treatment of Thrombophlebitis
+769,Treatment of Thyroid cancer
+770,Treatment of Tuberculosis (TB)
+771,Treatment of Type 2 diabetes mellitus
+772,Treatment of Typhoid fever
+773,Treatment of Ulcerative colitis
+774,Treatment of Urinary retention
+775,Treatment of Urinary tract infections (UTIs)
+776,Treatment of Uterine fibroids
+777,Treatment of Uveitis
+778,Treatment of Vaginitis
+779,Treatment of Varicose veins
+780,Treatment of Vertigo
+781,Treatment of Vitamin & mineral deficiency
+782,Treatment of Vitamin A deficiency
+783,Treatment of Vitamin B12 deficiency
+784,Treatment of Vitamin C deficiency
+785,Treatment of Vitamin D deficiency
+786,Treatment of Vitamin E deficiency
+787,Treatment of Vomiting
+788,Treatment of Warts
+789,Treatment of Worm infections
+790,Treatment of Wound infection
+791,Trigeminal neuralgia
+792,Tuberculosis (TB)
+793,Tuberculosis with HIV infection
+794,Type 2 diabetes mellitus
+795,Typhoid fever
+796,Ulcerative colitis
+797,Urinary bladder cancer
+798,Urinary tract infections (UTIs)
+799,Urticaria
+800,Uterine fibroids
+801,Uveitis
+802,Varicose veins
+803,Vertigo
+804,Vision loss due to swelling of the macula
+805,Vitamin & mineral deficiency
+806,Vitamin B12 deficiency
+807,Vitamin C deficiency
+808,Vitamin D deficiency
+809,Vitamin K deficiency
+810,Vitiligo
+811,Vomiting
+812,Warts
+813,Wet age-related macular degeneration
+814,Wilms' tumor
+815,Wilson's disease
+816,Worm infections
+817,Wound healing
+818,Wound infection
+819,Wrinkles

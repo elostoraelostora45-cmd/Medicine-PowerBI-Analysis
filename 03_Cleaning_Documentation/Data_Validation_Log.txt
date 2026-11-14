@@ -1,0 +1,51 @@
+DATA VALIDATION LOG - cleaned dataset (download/cleaned_data)
+Generated: 2026-11-13 16:55
+======================================================================
+[PASS] row count DimMedicine - 248,218 rows (expected 248,218)
+[PASS] row count DimSubstitute - 46,672 rows (expected 46,672)
+[PASS] row count DimSideEffect - 1,053 rows (expected 1,053)
+[PASS] row count DimChemicalClass - 834 rows (expected 834)
+[PASS] row count DimUse - 813 rows (expected 813)
+[PASS] row count DimActionClass - 431 rows (expected 431)
+[PASS] row count DimTherapeuticClass - 22 rows (expected 22)
+[PASS] row count BridgeMedicineSideEffect - 1,609,763 rows (expected 1,609,763)
+[PASS] row count BridgeMedicineSubstitute - 1,148,338 rows (expected 1,148,338)
+[PASS] row count BridgeMedicineUse - 362,238 rows (expected 362,238)
+[PASS] PK unique DimMedicine - 248,218 unique MedicineID
+[PASS] PK unique DimSubstitute - 46,672 unique SubstituteID
+[PASS] PK unique DimSideEffect - 1,053 unique SideEffectID
+[PASS] PK unique DimChemicalClass - 834 unique ChemicalClassID
+[PASS] PK unique DimUse - 813 unique UseID
+[PASS] PK unique DimActionClass - 431 unique ActionClassID
+[PASS] PK unique DimTherapeuticClass - 22 unique TherapeuticClassID
+[PASS] no duplicate rows BridgeMedicineSideEffect - 0 duplicates
+[PASS] no duplicate rows BridgeMedicineSubstitute - 0 duplicates
+[PASS] no duplicate rows BridgeMedicineUse - 0 duplicates
+[PASS] FK TherapeuticClassID -> DimTherapeuticClass - 0 orphans
+[PASS] FK ChemicalClassID -> DimChemicalClass - 0 orphans
+[PASS] FK ActionClassID -> DimActionClass - 0 orphans
+[PASS] FK SideEffectID -> DimSideEffect - 0 orphans
+[PASS] FK MedicineID -> DimMedicine (BridgeMedicineSideEffect) 
+[PASS] FK SubstituteID -> DimSubstitute - 0 orphans
+[PASS] FK MedicineID -> DimMedicine (BridgeMedicineSubstitute) 
+[PASS] FK UseID -> DimUse - 0 orphans
+[PASS] FK MedicineID -> DimMedicine (BridgeMedicineUse) 
+[PASS] no case-duplicates DimSubstitute - 0 case-duplicates
+[PASS] no case-duplicates DimSideEffect - 0 case-duplicates
+[PASS] no case-duplicates DimChemicalClass - 0 case-duplicates
+[PASS] no case-duplicates DimUse - 0 case-duplicates
+[PASS] no case-duplicates DimActionClass - 0 case-duplicates
+[PASS] no case-duplicates DimTherapeuticClass - 0 case-duplicates
+[PASS] DimUse text hygiene - 0 dirty texts
+[PASS] DimMedicine names non-blank - 0 blanks
+[PASS] Habit Forming values in {Yes,No} - values: {'No': np.int64(242215), 'Yes': np.int64(6003)}
+[PASS] no decimal-formatted IDs (e.g. 453.0) - 0 artifacts
+======================================================================
+RESULT: 39/39 checks passed
+
+Documented structural findings (kept by policy, not errors):
+  - Missing TherapeuticClassID : 69 rows (0.03%) -> DAX 'Not Specified'
+  - Missing ChemicalClassID    : 110,427 rows (44.5%) -> DAX 'Not Specified'
+  - Missing ActionClassID      : 110,182 rows (44.4%) -> DAX 'Not Specified'
+  - Repeated medicine names    : 23,723 distinct names shared by 2+ rows (different
+    formulations/strengths; kept intentionally per source design)

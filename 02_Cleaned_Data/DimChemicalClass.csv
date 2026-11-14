@@ -1,0 +1,835 @@
+ChemicalClassID,ChemicalClass
+1,"1,2-Aminoalcohols"
+2,"1,3-Diarylpropanoid Derivative"
+4,1-Benzopyrans derivative
+5,1-Benzothiophenes Derivative
+6,1-Hydroxy-4-Unsubstituted Benzenoids Derivative
+7,19-Nortestosterone Derivatives
+8,2-Amino-1-Phenylethanol Derivatives
+9,2-Benzimidazolylcarbamic acid esters
+10,2-phenylindoles
+11,3-Alkylindole Derivative
+12,3-Alkylindoles Derivative
+13,4-Aminoquinoline Derivative
+15,4-Halobenzoic Acids Derivative
+16,4-Hydroxycoumarin Derivative
+17,4-Quinolinemethanol derivative
+18,4-alkoxyphenols
+20,5'-deoxy-5'-thionucleosides Derivative
+21,6-kDa polypeptide growth factor
+22,8-Aminoquinoline derivative
+23,8-Hydroxy derivatives
+24,8-Hydroxyquinoline derivatives
+25,8-Hydroxyquinolines
+26,Acetamide Derivative
+27,Acetanilide & piperazine derivative
+28,Acetic acid Derivatives
+29,Acetohydroxamic acids derivative
+30,Acridine Derivative
+32,Acyl Cholines Derivative
+33,Acylaminosugar
+34,Acylsalicylamides (Benzoic acids and derivatives)
+35,Acylsalicylic Acid Derivative
+36,Adenine analog
+37,Alcohol & phenols
+38,Alcohol derivative
+39,Aliphatic Carboxylic acid Derivatives
+40,Alkali Metal Chloride
+41,Alkali Metal Chlorides
+42,Alkali Metal Nitrate
+43,Alkali Metal Phosphates
+44,Alkali metal fluorides
+45,Alkaline Earth Metal
+46,Alkaline Earth Metal Chloride
+47,Alkaline Earth Metal Hydroxides
+48,Alkaline Earth Metal Sulfate
+49,Alkaloid
+50,Alkaloids Derivative
+51,Alkyl Aryl Ethers
+52,Alkyl-Phenylketone Derivative
+53,Alkyl-phenylketone derivatives
+54,Alkyl-phenylketones derivatives
+55,"Alkylating agents, methylhydrazine derivative"
+56,Alkyldiarylamines Derivative
+57,Allylamine
+58,Alpha Amino Acid Derivative
+59,Alpha Amino Acids
+60,Alpha Amino Acids Derivatives
+62,Alpha amino acid amides
+63,Alpha amino acid esters
+65,Alpha-Amino Acid Ester
+66,Aluminium-Containing Antacid
+67,Amantadine Derivative
+68,Amide derivative
+69,Amine derivative
+70,"Amino Acids, Peptides Analogues"
+71,"Amino Acids, Peptides, Analogues"
+72,"Amino Acids, Peptides, and Analogues"
+73,Amino Sugar
+74,Amino acid Derivative
+75,Amino acids
+76,Amino acids and Derivatives
+78,Aminobenzamide Derivative
+79,Aminobenzenesulfonamides
+80,Aminobenzoic Acids Derivative
+81,Aminocyclitol glycosides
+82,Aminoglycosides
+83,Aminoglycosides {Amphoteric macrolide antifungal antibiotic}
+84,Aminoglycosides {Polyenes}
+85,Aminopenicillins Penicillins
+86,Aminopenicillins {Penicillins}
+87,Aminopyridine Derivative
+88,Aminopyridines Derivatives
+90,Aminopyrimidine
+91,Aminopyrimidine Derivative
+92,Aminopyrimidines derivatives
+93,Aminoquinoline
+94,Aminosalicylic Acids Derivative
+95,Amiodarone derivative
+96,Amiosalicylic Acid derivative
+97,Amphenicols
+98,Amphetamines Derivative
+99,Amphetamines Derivatives
+100,Anabolic steroid
+101,Androgen Derivative
+102,Androgens Derivative
+103,Androstene Derivative
+104,Anilide Derivative
+105,Anilides {Benzene and substituted derivatives}
+106,Anion exchange resin
+107,Anisole Derivative
+108,Anthracene Derivative
+109,Anthracenecarboxylic Acids
+110,Anthracenedione Derivative
+111,Anthracycline Derivative
+112,"Anthraquinone, glycoside"
+113,"Anti Metabolites, {Urea}"
+114,"Anti Metabolites,{Urea}"
+115,Antistaphylococcal Penicillin
+116,Antitumor Antibiotics
+117,Aralkylamine Derivative
+118,Aralkylamines Derivative
+120,Aralkylketone Derivative
+121,Aromatic ketone
+122,Aryl-Phenylketone Derivative
+123,Arylethylamine Derivative
+124,Aryloxypropanolamine derivative {indoles}
+125,Atropine Derivative
+126,Aza-dipeptide analogue
+127,Azacitidine Derivative
+128,Azetidinone derivative
+129,Azole derivatives {Imidazoles}
+130,Azoles derivatives
+131,Azoles {Triazoles}
+132,Barbituric Acid Derivative
+133,Belladonna Derivative
+134,Benzamide Derivative
+135,Benzamides Derivative
+136,Benzamides Derivatives
+137,Benzanilide Derivative
+138,Benzanilides
+139,Benzanilides Derivative
+140,Benzazepine Derivative
+142,Benzazepines derivatives
+143,Benzazocine Derivative
+144,Benzene & Substituted Derivatives
+145,Benzene and Substituted Derivatives
+146,Benzene derivatives
+147,Benzenesulfonamide Derivative
+148,Benzenesulfonamides Derivative
+149,Benzenesulfonate Derivative
+150,Benzenesulfonic acid Derivative
+151,Benzimidazole Derivative
+153,Benzimidazoles Derivative
+154,Benzimidazoles and Sulfoxide Derivative
+155,Benzisoxazole & Sulfonamide Derivatives
+156,Benzisoxazole Derivative
+157,Benzo pyran derivative
+158,Benzoate Ester
+159,Benzocycloheptapyridine Derivative
+160,Benzodiazepine Derivative
+161,Benzodiazepines Derivative
+162,Benzofuran derivative
+163,Benzofurans derivatives
+164,Benzoic Acid Derivative
+165,Benzoic Acid Esters
+166,Benzoic Acids Derivative
+168,Benzomorphan Derivatives
+169,Benzophenone Derivatives
+170,Benzoporphyrin Derivative
+171,Benzoquinone Derivative
+172,Benzothiadiazines (Thiazides)
+173,Benzothiadiazole Derivative
+174,Benzothiazepine derivative
+175,Benzothiazine and Thiazole Derivative
+176,Benzothiazole Derivative
+177,Benzothiazoles Derivative
+178,Benzoxazine Derivative
+179,Benzoxazocine Derivatives
+180,Benzyl Alcohols
+181,Benzyl Alcohols Derivatives
+182,Benzylamines derivatives
+183,Benzylethers Derivative
+185,Benzylisoquinolines Derivative
+186,Beta amino acids derivative
+187,Biguanide
+188,Biguanide derivative
+189,Biguanides Derivative
+190,Bile Acids and Salts
+191,Biotin Combinations
+192,Biotin Derivative
+193,Biphenyl & tetrazole derivative {Spiro compound}
+194,Biphenyls Derivatives
+196,Bipyridines & Oligopyridines Derivative
+197,Bipyridines and Oligopyridines Derivative
+198,Bis(2-ethylhexyl) sulfosuccinate derivative
+199,Bismuth derivatives
+200,Bisphosphonate Derivative
+201,Blood Factor
+202,Boswellia serrata extract
+203,Broad Spectrum (Third & fourth generation cephalosporins)
+204,Broad spectrum (Third & fourth generation cephalosporins
+206,Broad spectrum (Third & fourth generation cephalosporins}
+207,Broad-spectrum {Third & fourth generation cephalosporins)
+208,Butenolide Derivative
+209,Butyrophenone Derivative
+210,Calcitriol
+211,Camptothecin Derivative
+212,Carbamate Derivative
+213,Carbapenem derivative
+214,Carbapenems derivative
+215,Carbazole & propanol derivative
+216,Carbazole Derivative
+217,Carbocyclic Fatty Acid
+218,Carboline Derivative
+219,Carbonyl Compound
+220,Carbonylimidazoles Derivatives
+221,Carboxamide Derivatives
+222,Carboxylic Acid Derivative
+223,Carboxylic Acids Derivatives
+224,Carboxylic Ester and Secondary Aalcohol
+226,Carboxylic acid and derivatives
+228,Carboxylic acid derivatives
+229,Carboxypenicillins {Penicillins}
+230,Cardiac glycosides
+231,Carotene Derivative
+232,Catecholamine Derivative
+233,Catecholamines
+234,Cellulose Derivative
+235,Cephalosporin
+236,Cephalosporins
+237,Chlorobenzenes Derivative
+238,Chromone Complex
+239,Cinchona alkaloid
+240,Cinnamic acids Derivative
+241,Citric acid derivatives
+242,Cobalamin Derivative
+243,Cobalamin Derivatives
+244,Cyanoacrylates Derivative
+245,Cyclic GABA Analogues
+246,Cyclic polypeptide
+247,Cyclo hexyl halide derivative
+248,Cycloheptathiophene Derivative
+249,Cyclohexane & pyridinone derivative
+250,Cyclohexanols Derivative
+251,Cyclohexanone derivative
+252,Cyclohexyl Halide
+253,Cyclopyrrolone Derivative
+254,Cyclosporin Derivative
+255,Cytokine Glycoprotein
+256,Cytosine Analogue
+257,Cytosine Nucleotides
+258,Dacarbazine Derivative
+259,Delta Amino Acids Derivatives
+260,Delta valerolactones
+261,Delta valerolactones derivative
+262,Denzamide Derivative
+263,Denzoxazolone Derivative
+264,Deoxycytidine Derivative
+265,Desoxynojirimycin Derivative
+266,Dialkyl ethers
+267,Dialkylarylamines
+268,Dialkylarylamines Derivative
+269,Diarylethers
+270,Diarylethers Derivative
+271,Diarylmethane Derivatieve
+272,Diazinanes
+273,Diazo Dye
+274,Dibenzazepines Derivative
+275,Dibenzocycloheptene Derivative
+276,Dibenzocycloheptenes Derivative
+277,Dibenzodiazepine Derivative
+278,Dibenzothiazepine Derivatives
+279,Dibenzothiepin Derivatives
+280,Dibenzothiepine Derivative
+281,Dibenzoxazepine Derivative
+282,Dibenzoxepin Derivative
+283,Dibenzoxepine Derivative
+284,Dibenzoxepines Derivative
+285,Dicarboxylic acids derivatives
+286,Dichlorobenzene derivative
+287,Dichlorobenzenes Derivative
+288,Dideoxynucleoside derivative
+289,Dietary fibre
+290,Dihydrobenzofurancarboxamide Derivative {benzamides}
+291,Dihydrocarbostyril Drivative
+292,Dihydrogenated Ergot Alkaloid Derivative
+293,Dihydroindolone Derivative
+294,Dihydropyridine
+295,Dihydropyridine derivatives
+296,Dihydropyridinecarboxylic acids derivatives
+297,Dihydropyridinecarboxylic derivatives
+298,Dihydropyridines derivatives
+299,Dimeric Sugar Alcohol
+300,Dioctyl Salt and Emollient Laxative
+301,Dioxolopyrans Derivative
+302,Dipeptides
+303,Dipeptides (Carboxylic acids derivatives)
+304,Diphenyl Ether Derivative
+305,Diphenylbutylpiperidine Derivatives
+306,Diphenylethers Derivative
+307,Diphenylmethane Derivative
+308,Diphenylmethane Drivative
+309,Diphenylmethanes Derivative
+310,Diphenylmethanes Derivatives
+312,Disaccharide Derivative
+313,Disaccharide Sulfates
+314,Eburnan-Type Alkaloid
+315,Echinocandins
+316,Enolic acid Derivatives
+317,Enzamide and Indazole Derivative
+318,Enzyme
+319,Enzyme {Peptides}
+320,Epothilones ASnalogue
+321,Epoxide
+322,Epoxomicin Derivate
+323,Ergolines
+324,Ergot Derivative
+325,Ergot alkaloids derivatives
+326,Essential oil and a colouring matter (curcumin).
+327,Esters derivative
+328,Estradiol Congeners
+329,Estradiol Derivative
+330,"Estradiol, and Nitrogen Mustard Compounds"
+331,Estrane Steroids
+332,Estrogens Derivatives
+333,Ethanolamine Derivative
+335,Ethylenediamine Derivative
+336,Fatty acyl derivative
+337,Fibrous Proteins
+338,First-generation sulfonylurea Derivative
+339,Flavonoid
+340,Flavonoids and Ether
+341,Fluoropyrimidine Derivative
+342,Fluoroquinolone
+343,Folic acid derivative
+344,Fourth generation fluoroquinolone
+345,Fumarate Derivative
+346,Furan derivative
+347,Fusion proteins
+348,GABA Derivative
+349,GNRH Analogue
+350,Gamma Amino Acids Derivative
+351,Gamma Amino Acids Derivatives
+352,Gamma amino acids derivatives {Acetamido cyclohexene}
+353,Glucagon-like Peptide-1 (GLP-1) Analogue
+354,"Gluco/Mineralocorticoids, Progestogins Derivatives"
+355,"Gluco/mineralocorticoids, progestogins and derivatives"
+356,"Gluco/mineralocorticoids, progestogins and derivatives."
+357,Glucocorticoids
+358,Glucopolysaccharides
+359,Glutamic Aacid Derivatives
+360,Glutamic Acid Derivative
+361,Glutamic Acid Derivatives
+363,Glycerophosphocholine Derivative
+364,Glycopeptide antibiotics
+365,Glycopeptides
+366,Gonadotropins
+367,Granulocyte Colony-Stimulating Factor
+368,Granulocyte Macrophage Colony Stimulating Factor (GM-CSF)
+369,Growth Hormone
+370,Guanidines & Benzazepine Derivatives
+371,Halobenzoic Acid
+372,Herbals
+373,Hexacarboxylic Acids Derivative
+374,Hexose derivative
+375,Histamine Analog
+376,Homogeneous Transition Metal Compound
+377,Homogeneous Transition Metal Compounds
+378,Homogeneous other Non-Metal Compound
+379,Homogeneous other non-metal compounds
+380,Hormone
+381,Hormones
+382,Humanized IgG4k monoclonal antibody
+383,Hydantoin Derivative
+384,Hydrazone & pyridazine derivative {Phenylhydrazines}
+385,Hydroquinone Derivative
+386,Hydroxy Derivative of Aliphatic Hydrocarbons
+387,Hydroxycinnamic Acids Derivatives
+388,Hydroxyquinolones Derivatives
+389,Hypnotic alkylphenol derivative
+390,Imidazobenzazepine Derivatives
+391,Imidazobenzodiazepine Derivative
+392,Imidazole Derivative
+393,Imidazole Derivatives
+396,Imidazoles Derivative
+397,Imidazolethione Derivative
+398,Imidazoline derivative
+399,Imidazopyridine Derivative
+400,Imidazoquinoline Derivative
+401,Imidazothiazoles derivatives
+402,Iminostilbene Derivative
+403,Immunoglobulins
+404,Indane Derivative
+405,Indanedione Derivative
+406,Indanes Derivative
+407,Indazole Derivative
+408,Indazole Derivatives
+409,Indazoles Derivatives
+410,Indenes and Isoindene Derivative
+411,Indole DErivative
+412,Indole and Pyrrole Derivative
+413,Indole-heptanoic acid derivative
+414,Indolecarboxamides Derivatives
+415,Indolecarboxylic Acids
+416,Indoles Derivatives
+417,Indolines Derivative
+418,Indolyl Carboxylic Acids Derivatives
+419,Inhalational Corticosteriods
+420,Insulin analogue
+421,Interferons
+422,Interleukin-5 Antagonist
+423,Intermediate spectrum {Second generation cephalosporins}
+424,Intermediate-spectrum {Second generation cephalosporins)
+425,Intermediate-spectrum {Second generation cephalosporins}
+426,Iodinated amino acid derivative
+427,Iodinated polyvinyl polymer
+428,Iodine derivative
+429,Iodobenzene Derivative
+430,Iron Carbohydrate Complex
+431,Isoindole Derivative
+432,Isoquinoline Derivative
+433,Isoquinoline and Quinuclidine Derivative
+434,Isoquinoline derivatives
+435,Isoxazole Derivative
+436,Isoxazolines derivative
+437,"L-Ascorbic acid, iron complex"
+438,L-carsinone derivative
+439,L-cysteine-S-conjugates
+440,Leucine Derivative
+441,Levetiracetam Derivative
+442,Lincomycin
+443,Lincosamide antibiotics
+444,Lineolic Aacids Derivative
+445,Lipopeptides
+446,Long-chain fatty acids
+447,Low molecular weight heparin (LMWH)
+448,Luteinizing Hormone {LH}Analog
+449,M-Alkylindoles
+450,Macrocyclic Lactone Derivative
+451,Macrolactams
+452,Macrolide Lactams
+453,Macrolides
+454,Magnesium glycinate derivative
+455,"Mechlorethamine Derivative, Alkylating Agent, {Nitrogen Mustard Drug}"
+456,"Mechlorethamine Derivative, Alkylating Agent,{Nitrogen Mustard Drug}"
+457,Medium-Chain Fatty Acid
+458,Medium-Chain Fatty Acids
+459,Medium-chain hydroxy acids derivatives
+460,Meglitinide Derivative
+461,Metallic Salts
+462,Metalloid Oxides
+463,Methyl Analog of Dextrorphan
+464,Methyl Polysiloxane
+465,Methylpyridine Derivative
+466,Methylxanthine Derivative
+467,Methylxanthines & Theophylline Derivative
+468,Mineral Oil
+469,Mineralocorticoids
+470,Monoalkyl Phosphates
+471,Monocarboxylic Acid
+472,Monoclonal Antibody
+473,Monoclonal antibody (mAb)
+474,Monosaccharide derivative
+475,Monoterpenoid Derivative
+476,Morphinan Derivatives
+477,Morphinane Derivative
+478,Morphinans Derivative
+479,Morphine derivative
+480,Morpholine & thiophene derivative
+481,Morpholine Derivative
+482,Morpholines Derivative
+483,N-Acyl-Alpha Amino Acids Derivatives
+484,N-Acylated Alpha Amino Acids
+485,N-Arylpiperazine Derivative
+486,N-Arylpiperazines Derivative
+487,N-Benzylpiperidines Derivatives
+488,N-Methylpyridinium Compounds
+489,N-arylamides
+490,N-carbamoyl-alpha amino acids derivatives
+491,Naphthalene Derivative
+492,Naphthalenes derivatives
+493,Naphthoquinone Derivative
+494,Narrow- specttrum {First generation cephalosporins}
+495,Narrow-spectrum {First generation cephalosporins}
+496,Natural Alkaloids
+497,Natural Steroid Hormone
+498,Natural crotonic acid derivative {Medium-chain fatty acids}
+499,Nicotinamide Derivative
+500,Nicotinamides Derivatives
+501,Nicotine
+502,Nicotinic Acids Derivative
+503,Nicotinic acid derivatives
+504,Nitrates
+505,Nitrates {Short acting}
+506,Nitrofuran derivatives
+507,Nitrofurans derivatives
+508,Nitrogen Mustard Compounds
+509,Nitroimidazole
+510,Nitrosourea Derivative
+511,Non-metal sulfides
+512,Non-nucleoside analog
+513,Nonionic Starch Derivative
+514,Nonsteroidal Antiestrogen
+515,Nonsulfated Glycosaminoglycan
+516,"Nucleoside Analog, and Purines"
+517,Nucleoside analog
+518,Nucleoside analog {Antimetabolite}
+519,Nucleoside analogue
+520,Nucleotide analog
+521,O-Glycosyl Compounds
+522,O-Haloacetanilide Derivative
+523,O-glycosol derivatives
+525,O-glycosyl derivatives
+526,Oleo-gum-resins
+527,Oligonucleotides
+528,Oligopeptide
+529,Oligosaccharides
+530,Omega-3 Fatty Acid
+531,Organic Carbonic Acids
+532,Organic Compounds
+533,Organic carbonic acid derivative
+534,Organic phosphonic acids
+535,Organic transition metal salts
+536,Organofluoride derivative
+537,Organooxygen compound & organonitrogen compound
+538,Organosulfonic Acid
+539,Organosulfonic Acid Esters Derivative {Alkylating Agent
+540,Organosulfonic acid esters
+541,Organosulfur Compound
+542,"Others, Depolarizing Agent"
+543,Oxazole Propionic Acid Derivative
+544,Oxazolidinone derivative
+545,Oxosteroid
+546,Oxosteroids
+547,Oxytocin
+548,P-Aminophenol Derivative
+549,P-Methoxybenzoic Acids and Derivatives
+550,PPAR alpha
+551,Pantothenic Acid Derivative
+553,Papaverine Derivatives
+554,Para-Aminobenzoic Acid (PABA) Derivative
+555,Parathyroid Hormone Analogs
+556,Penicillin
+557,Penicillins
+558,Penicillins {Antibiotic analog of cloxacillin}
+559,Peptides
+560,Peroxide Derivative
+561,Phenanthrenes Derivative
+562,Phenanthrenes Derivatives
+564,Phenazines derivatives
+565,Phenethylamine
+566,Phenethylamine Derivative
+567,Pheniramines Drivative
+568,Pheniramines derivatives
+569,Phenol Ethers Derivative
+570,Phenol ethers
+572,Phenol ethers derivatives
+573,Phenolic Glycosides Derivative
+574,Phenothiazine Derivative
+575,Phenothiazines Derivative
+576,Phenoxy Compounds
+577,Phenoxyacetic Derivatives
+578,Phenyl propane derivatives
+579,Phenylacetamide Derivative
+580,Phenylacetamides Derivative
+582,Phenylacetic acid Derivative
+583,Phenylalanine Derivative
+584,Phenylalanine Derivatives
+587,Phenylalkylamine derivative
+588,Phenylbenzamines derivatives
+589,Phenylbutylamine Derivative
+590,Phenylbutylamines derivatives
+591,Phenylheptylamines Derivative
+592,Phenylimidazoles
+593,Phenylimidazolidine Derivative
+594,Phenylmethyl Piperazinyl Derivative
+595,Phenylmethylamine Derivative
+596,Phenylmethylamines
+597,Phenylmorpholine Derivative
+598,Phenylpiperazine Derivative
+599,Phenylpiperidine Derivative
+600,Phenylpiperidine Derivatives
+601,Phenylpiperidines
+602,Phenylpropane Derivative
+603,Phenylpropanes Derivative
+604,Phenylpropanes derivatives
+605,Phenylpropanoic acid Derivatives
+606,Phenylpropanoid derivatives
+607,Phenylpyrazole Derivative
+608,Phenylpyrimidine derivatives
+609,Phenylpyrrole Derivative
+610,Phenylquinoline derivatives
+611,Phenyltriazine Derivative
+612,Phosphatidylcholines Derivatives
+613,Phosphinic acid-containing ester prodrug
+614,Phosphocholine
+615,Phospholipid
+616,Phosphorylated aminosulfhydryl compound
+617,Phthalazine Derivative
+618,Phthalazines Derivatives
+619,Phthalide Derivative
+620,Phthalide Isoquinoline Non-Narcotic Alkaloid
+621,Phthalimide and Piperidone Derivative
+622,Phthalimides
+623,Phytomenadione Derivative
+624,Piperazine Derivative
+625,Piperazine Derivatives
+626,Piperazine carboxamides
+628,Piperazines Derivative
+629,Piperazines derivatve
+630,Piperazinoazepine Tetracyclic
+631,Piperidine Derivate
+632,Piperidine Derivative
+633,Piperidine Derivatives
+634,Piperidine and Aminopyridine Derivative
+636,Piperidinyl Benzimidazol Derivative
+637,Platinum Analogs
+638,Pleuromutilin derivative
+639,Podophyllotoxins Derivative
+640,Poly(Dimethylsiloxane)
+641,Polyacrylic acid derivative
+642,Polyallylamine derivative
+643,Polyclonal antibody (pAb)
+644,Polyene antibiotics
+645,Polyether Compound
+646,Polyethylene Glycols
+647,Polyhydric Alcohol
+648,Polymyxins
+649,Polypeptides
+650,Polyphenol derivatives
+651,Polysaccharide derivative
+652,Polysaccharide derivatives
+653,Polystyrene sulphonic acid derivative
+654,Post-Transition Metal Fluorides
+655,Potassium sparing diuretics
+656,Progesterone Congeners
+657,"Progesterone Congeners, Spironolactone Analogue"
+658,Progesterone Derivative
+659,Proline and derivatives
+660,Proline derivatives
+661,Propanolamine Derivative
+662,Propionic acid Derivatives
+663,Propiophenone Derivetive
+664,Propylamine Derivative
+665,Prostaglandin Aanalogue
+666,Prostaglandin Analog
+667,Prostaglandin Analogu
+668,Prostaglandin Derivative
+669,Prostaglandin E1 (PGE1) Analogue
+670,Prostaglandin analogue
+671,Prostaglandins and related compounds
+672,Protease Digestive Enzymes
+673,Protein based therapies
+674,Proteolytic Enzyme
+675,Psoralens Derivative
+676,Pthalazinone derivatives
+677,Purine 2'-deoxyribonucleosides Derivative
+678,Purine Derivatives
+679,Purine and quinazoline derivative
+680,Purine nucleosides
+681,Purine nucleosides Analog
+682,Purinethiones
+683,Pyrazine-derivative
+684,Pyrazinecarboxamide derivative
+685,Pyrazinoisoquinoline derivative
+686,Pyrazolo Pyrimidine Derivative
+687,Pyrazolone Derivatives
+688,Pyrazolones Derivative
+689,Pyrazolopyridine Derivative
+690,Pyrazolopyrimidine Derivative
+691,Pyrethroid Derivative
+692,Pyridine Derivative
+693,Pyridinecarboxylic Acids Derivative
+694,Pyridinecarboxylic acids derivatives
+695,Pyridines Derivatives
+697,Pyridinylpiperazines
+698,Pyridinylpiperazines Derivative
+699,Pyridochromene Derivetive
+700,Pyridone derivative
+701,Pyridones Derivative
+702,Pyridopyrimidines
+703,"Pyridyl-1,2,4-triazoles"
+704,Pyrimidine Analog
+705,Pyrimidine Nucleoside Analog
+706,Pyrimidine Nucleoside Analogue
+707,Pyrimidine Ribonucleoside Diphosphate
+708,Pyrimidine and Thiazole Derivetive
+709,Pyrimidine derivative
+710,Pyrimidinecarboxamides
+711,Pyrimidinedione derivatives
+712,Pyrimidines and Pyrimidine Derivative
+713,Pyrimidines derivatives
+714,Pyrimido-pyrimidine derivative
+715,Pyrrole & heptanoic acid derivative
+716,Pyrrolealkanoic Acid Derivative
+717,Pyrrolidine-carbonitrile derivative
+718,Pyrrolidinone & Acetamide Derivative
+719,Pyrrolidinone derivative
+720,Pyrrolo Pyrimidine Derivative
+721,"Pyrrolo[2,3-d]pyrimidines Derivative"
+722,Quaternary Ammonium Compound
+723,Quinazolinamines
+724,Quinazolinamines Derivative
+725,Quinazoline Derivative
+726,Quinazoline and Butenamide Derivative
+727,Quinazolines derivative
+728,Quinoline & tetrazole derivative
+729,Quinoline Carboxamides
+730,Quinoline Carboxylic Acids
+733,Quinoline derivative
+734,Quinolinone Derivative
+735,Quinone Derivatives
+736,Quinoxaline Derivative
+737,Quinuclidine Tetrahydroisoquinoline Derivative
+738,Recombinant Xanthine Oxidase Enzyme
+739,Recombinant platelet derived growth factor
+740,Resorcinol Derivative
+741,Retinoid
+742,Retinoid Derivative
+743,Retinoids
+744,Rifamycin derivatives
+745,Salicylamide Derivative
+747,Salicylic Acid
+748,Salicylic Acid Derivatives
+749,Scopolamine Alkaloid
+750,Second-generation sulfonylurea derivative
+751,Secondary Alcohol
+752,Semi-synthetic macrolide
+753,Semicarbazide derivative
+754,Sesquiterpene lactones
+755,Sesquiterpine lactones
+756,Silver derivative
+757,Simple Sugar (Monosaccharide)
+758,Sodium Salt of Lactic Acid
+759,Somatostatin Analogues
+760,Spasmolytic Flavone Derivative
+761,Steroid Derivative
+762,Steroid esters
+763,Stilbene Derivative
+764,Strontium derivative
+765,Sugar Acid Derivative
+766,Sugar Acids Derivative
+767,Sugar Alcohol
+768,Sugar Alcohols
+769,Sulfamides Derivative
+770,"Sulfhydryl compound, {organosulfonic acid}"
+771,Sulfinylbenzimidazole Derivative
+772,Sulfonamide Derivative
+773,Sulfonamide and Pyrimidine Derivative
+774,Sulfonamides
+775,Sulfonamides Derivative
+776,Sulfonate salt
+777,Sulfone & sulfonamides derivative
+778,Sulfone and Pyridine Derivative
+779,Sulfur-Rich Glycosaminoglycan
+780,Sulphamoyl derivatives
+781,Synthetic Alkylamine Derivative
+782,Synthetic Butylamino-Benzoate Derivative
+783,Synthetic Dipeptide
+784,Synthetic Disaccharide
+785,Synthetic Glucopyranoside
+786,Synthetic Propanediol Dicarbamate Derivative
+787,Synthetic Quaternary Ammonium
+788,Synthetic Tricyclic Amine Derivative
+789,Synthetic Vitamin D Derivative
+790,Synthetic analogue of halichondrin B
+791,Synthetic analogue of the nitrogen mustard cyclophosphamide
+792,"Synthetic benzimidazole derivate, Benzophenones"
+793,Synthetic benzimidazole derivative
+794,Synthetic dihydropyridine derivative
+795,Synthetic imidazole derivative
+796,Synthetic isopropylamino propanol derivative
+797,Synthetic phenoxy-isobutyric acid Derivative
+798,Synthetic thymidine nucleoside analog
+799,Tametraline Derivative
+800,Taxanes Derivatives
+801,Tertiary Amine Derivative
+802,Tertiary Amines
+803,Testosterone derivative
+804,Tetraalkylammonium Salts Derivative
+805,Tetracarboxylic Acids Derivative
+806,Tetracarboxylic acid Derivatives
+807,Tetracyclines
+808,Tetrahydroisoquinoline Derivative
+810,Tetrahydroisoquinolines derivative
+811,Tetralin Derivative
+812,Tetrazole derivative
+813,Thiadiazines derivative
+814,Thiamine Derivative
+815,Thiazide (Related heterocyclics)
+816,Thiazole Derivative
+817,Thiazoles Derivative
+818,Thiazolidinedione Derivative
+819,Thienobenzodiazepine Derivative
+820,Thienodiazepines Derivative
+821,Thienopyridine derivative
+822,Thienothiazines Derivative
+823,Thiocarbamate derivative
+824,Thiol Derivative
+826,Thiophenes Derivative
+827,Thiophosphoric Acids Derivatives
+828,Thioxanthene Derivative
+830,Third-generation Sulfonylurea Derivative
+831,Timoprazole Derivative
+832,Tocopherol Derivative
+833,Transition Metal Chloride
+834,Transition Metal Nitrates
+835,Transition Metal Oxides
+836,Transition Metal Sulfate
+837,Triazene Derivative
+838,Triazole & benzoate derivative
+839,Triazolopyrimidines
+840,Tricarboxylic Acids Derivative
+841,Tricarboxylic acids Derivatives
+842,Trifluoroethoxy benzamide derivatives
+843,Trifluoromethylbenzene Derivative
+844,Trifluoromethylbenzenes Derivative
+845,Trihydroxybenzoic acid Derivative
+846,Triphenyl Ethylene Stilbene Derivative
+847,Tropane alkaloids
+848,Tryptamine Derivatives
+849,Tryptamines Derivative
+850,Tyrosine Derivative
+851,Tyrosols Derivative
+852,Ubiquinones Derivative
+853,Ultrashort-Acting Barbituric Acid Derivative
+854,Ureas
+855,Ureidopenicillins {Penicillins}
+856,Vaccines
+857,Valine Derivative
+858,Valine derivatives
+859,Valiolamine derivative
+860,Valproic Acid Derivative
+861,Vasopressin analogues
+862,Vinca alkaloids
+863,Vinyl alcohol derivative
+864,Vitamin D Derivative
+865,Vitamin D Derivative [cholecalciferol]
+866,Vitamin K1[Phytomenadione]
+867,Xanthenes Derivative
+868,Xanthine Derivative
+869,Xanthine derivatives
+870,Xanthines Derivative
+871,Xanthinic Derivatives
+872,Zinc derivative
